@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [SM3320-BATT-EV.PcbDoc]
+   Generated File[SM3320-BATT-EV-RoundHoles.TXT]
+   Generated File[SM3320-BATT-EV-SlotHoles.TXT]
+   Generated File[SM3320-BATT-EV.LDP]
+   Generated File[SM3320-BATT-EV.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 7:49:48 PM On 4/1/2022

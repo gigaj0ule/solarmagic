@@ -1,0 +1,21 @@
+------------------------------------------------------------------------------------------
+Gerber File Extension Report For: SM3320-BATT-EV.GBR   4/1/2022  7:49:47 PM
+------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------
+Layer Extension     Layer Description                      
+------------------------------------------------------------------------------------------
+.GTO                Top Overlay                             
+.GTP                Top Paste                               
+.GTS                Top Solder                              
+.GTL                Top Layer                               
+.GBL                Bottom Layer                            
+.GBS                Bottom Solder                           
+.GBP                Bottom Paste                            
+.GBO                Bottom Overlay                          
+.GM30               M30 Board Outline                       
+.GKO                Keep-Out Layer                          
+.GPT                Top Pad Master                          
+.GPB                Bottom Pad Master                       
+------------------------------------------------------------------------------------------
