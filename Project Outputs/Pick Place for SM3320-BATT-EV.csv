@@ -1,19 +1,19 @@
 Altium Designer Pick and Place Locations
-C:\Users\user\Nextcloud\PC-SYNC\Projects\_source_codes\_all_git_repos\bitsnap_snaps\pcba\snaps\snvc033 (2)\Project Outputs\Pick Place for SM3320-BATT-EV.csv
+C:\git\solarmagic\Project Outputs\Pick Place for SM3320-BATT-EV.csv
 
 ========================================================================================================================
 File Design Information:
 
-Date:       01/04/22
-Time:       19:49
-Revision:   Not in VersionControl
+Date:       09/04/22
+Time:       17:02
+Revision:   fcd773d9eaf0b74ec5840eef1adfabf007bf4c5c
 Variant:    No variations
 Units used: mm
 
 "Designator","Comment","Layer","Footprint","Center-X(mm)","Center-Y(mm)","Rotation","Description","Ref-X(mm)","Ref-Y(mm)","Pad-X(mm)","Pad-Y(mm)"
 "C19","=PartNumber","TopLayer","C_1206","151.5000","23.0000","90","C - CAPACITOR - MLCC - 1nF - 2000V - 1206 - X7R","151.5000","23.0000","151.5000","21.7046"
 "C18","=PartNumber","TopLayer","C_1206","151.0000","84.5000","270","C - CAPACITOR - MLCC - 1nF - 2000V - 1206 - X7R","151.0000","84.5000","151.0000","85.7954"
-"J_OUT","XT60PW_M","TopLayer","XT60PW_M","251.4000","25.2500","270","J - JACK - POWER - XT60 - RIGHT - MALE","248.4000","25.2500","248.4000","21.6500"
+"J_OUT","XT60PW_M","TopLayer","XT60PW_M","251.4000","25.2500","270","J - JACK - POWER - XT60 - RIGHT - MALE","248.4000","25.2500","254.4000","32.0000"
 "D_CLAMP_18","ZMM5V1","TopLayer","DO-213AA","93.0000","25.0000","180","D - DIODE - ZENER - 5.1V - 500mW","93.0000","25.0000","95.0000","25.0000"
 "D_CLAMP_17","ZMM5V1","TopLayer","DO-213AA","93.0000","28.5000","360","D - DIODE - ZENER - 5.1V - 500mW","93.0000","28.5000","91.0000","28.5000"
 "D_CLAMP_16","ZMM5V1","TopLayer","DO-213AA","93.0000","32.0000","180","D - DIODE - ZENER - 5.1V - 500mW","93.0000","32.0000","95.0000","32.0000"
@@ -335,7 +335,7 @@ Units used: mm
 "C69","CL05A105KA5NQNC","TopLayer","C_0402","210.7000","50.3000","360","C - CAPACITOR - MLCC - 1uF - 25V - 0402","210.7000","50.3000","210.1920","50.3000"
 "R26","0402WGF1002TCE","TopLayer","R_0402","216.3000","50.3000","180","R - RESISTOR - SMD - 10k - 1% - 0402","216.3000","50.3000","216.8080","50.3000"
 "C66","CL05A105KA5NQNC","TopLayer","C_0402","216.3000","49.3000","360","C - CAPACITOR - MLCC - 1uF - 25V - 0402","216.3000","49.3000","215.7920","49.3000"
-"U8","SM72442","TopLayer","MTC28_L","213.6374","56.3528","180","Programmable Maximum Power Point Tracking Controller for Photovoltaic Solar Panels","213.6374","56.3528","216.4374","52.1278"
+"U8","23","TopLayer","MTC28_L","213.6374","56.3528","180","Programmable Maximum Power Point Tracking Controller for Photovoltaic Solar Panels","213.6374","56.3528","216.4374","52.1278"
 "C33","CL05A105KA5NQNC","TopLayer","C_0402","219.2000","61.2000","360","C - CAPACITOR - MLCC - 1uF - 25V - 0402","219.2000","61.2000","218.6920","61.2000"
 "C34","CL05A105KA5NQNC","TopLayer","C_0402","219.2000","52.2998","180","C - CAPACITOR - MLCC - 1uF - 25V - 0402","219.2000","52.2998","219.7080","52.2998"
 "C37","CL05B103KB5NNNC","TopLayer","C_0402","219.2000","53.2998","360","C - CAPACITOR - MLCC - 10nF - 50V - 0402","219.2000","53.2998","218.6920","53.2998"

@@ -72,7 +72,7 @@ GenerateClassCluster=0
 DocumentUniqueId=HRXRRLKU
 
 [Document3]
-DocumentPath=..\..\_dependencies\CUSTOM_PARTS.PcbLib
+DocumentPath=FABRICATION.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -86,10 +86,10 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=CJVWLJNG
+DocumentUniqueId=
 
 [Document4]
-DocumentPath=..\..\_dependencies\JLC_PCB.SchLib
+DocumentPath=..\component_libaries\CUSTOM_PARTS.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -103,10 +103,10 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=MMYJRUSX
+DocumentUniqueId=
 
 [Document5]
-DocumentPath=..\..\_dependencies\SILICON.PcbLib
+DocumentPath=..\component_libaries\JLC_PCB.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -123,7 +123,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document6]
-DocumentPath=..\..\_dependencies\STANDARD_PARTS.PcbLib
+DocumentPath=..\component_libaries\SILICON.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -140,7 +140,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7]
-DocumentPath=FABRICATION.OutJob
+DocumentPath=..\component_libaries\STANDARD_PARTS.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
