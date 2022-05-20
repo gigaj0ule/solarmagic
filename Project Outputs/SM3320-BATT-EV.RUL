@@ -1,4 +1,4 @@
-DRC Rules Export File for PCB: C:\git\solarmagic\SM3320-BATT-EV.PcbDoc
+DRC Rules Export File for PCB: C:\Users\user\Nextcloud\PC-SYNC\Projects\_source_codes\github\solarmagic\SM3320-BATT-EV.PcbDoc
 RuleKind=Clearance|RuleName=Clearance_13|Scope=Board|Minimum=16.00
 RuleKind=Clearance|RuleName=Clearance_12|Scope=Board|Minimum=24.00
 RuleKind=Clearance|RuleName=Clearance_11|Scope=Board|Minimum=24.00

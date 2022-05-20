@@ -2,37 +2,6 @@
 FileName = SM3320-BATT-EV.GBR
 AutoAperture = True
 *************************************************************
-Generating : Keep-Out Layer
-      File : SM3320-BATT-EV.GKO
-
-    Adding Layer      : Keep-Out Layer
-
-
-Used DCodes :
-*************************************************************
-
-*************************************************************
-Generating : Bottom Solder
-      File : SM3320-BATT-EV.GBS
-
-    Adding Layer      : Bottom Solder
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D57
-    D58
-    D59
-    D60
-    D61
-    D62
-    D63
-*************************************************************
-
-*************************************************************
 Generating : Top Pad Master
       File : SM3320-BATT-EV.GPT
 
@@ -42,7 +11,6 @@ Generating : Top Pad Master
 
 
 Used DCodes :
-    D17
     D18
     D19
     D20
@@ -62,106 +30,19 @@ Used DCodes :
     D34
     D35
     D36
-    D145
-    D146
-    D147
-    D148
-    D149
-    D150
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
     D151
-*************************************************************
-
-*************************************************************
-Generating : Bottom Overlay
-      File : SM3320-BATT-EV.GBO
-
-    Adding Layer      : Bottom Overlay
-
-
-Used DCodes :
-*************************************************************
-
-*************************************************************
-Generating : Top Paste
-      File : SM3320-BATT-EV.GTP
-
-    Adding Layer      : Top Paste
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D17
-    D18
-    D19
-    D20
-    D21
-    D22
-    D23
-    D24
-    D25
-    D26
-    D27
-    D28
-    D29
-    D30
-    D31
-    D32
-    D33
-    D34
-    D35
-    D36
-*************************************************************
-
-*************************************************************
-Generating : Bottom Pad Master
-      File : SM3320-BATT-EV.GPB
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D145
-    D146
-    D147
-    D148
-    D149
-    D150
-    D151
-*************************************************************
-
-*************************************************************
-Generating : M30 Board Outline
-      File : SM3320-BATT-EV.GM30
-
-    Adding Layer      : M30 Board Outline
-
-
-Used DCodes :
-    D10
-    D11
-    D12
-    D15
-    D16
-    D179
-*************************************************************
-
-*************************************************************
-Generating : Bottom Paste
-      File : SM3320-BATT-EV.GBP
-
-    Adding Layer      : Bottom Paste
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
+    D152
+    D153
+    D154
+    D155
+    D156
+    D157
 *************************************************************
 
 *************************************************************
@@ -175,8 +56,7 @@ Generating : Top Layer
 
 Used DCodes :
     D10
-    D15
-    D17
+    D16
     D18
     D19
     D20
@@ -196,17 +76,12 @@ Used DCodes :
     D34
     D35
     D36
-    D64
-    D65
-    D66
-    D67
-    D68
-    D69
-    D70
-    D71
-    D72
-    D73
-    D74
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
     D75
     D76
     D77
@@ -286,6 +161,139 @@ Used DCodes :
     D151
     D152
     D153
+    D154
+    D155
+    D156
+    D157
+    D158
+    D159
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : SM3320-BATT-EV.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D68
+    D69
+    D70
+    D71
+    D72
+    D73
+    D74
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : SM3320-BATT-EV.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : SM3320-BATT-EV.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D160
+    D161
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : SM3320-BATT-EV.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : SM3320-BATT-EV.GPB
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D151
+    D152
+    D153
+    D154
+    D155
+    D156
+    D157
+    D160
+    D161
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : SM3320-BATT-EV.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D17
+    D76
 *************************************************************
 
 *************************************************************
@@ -300,12 +308,6 @@ Generating : Top Solder
 
 
 Used DCodes :
-    D37
-    D38
-    D39
-    D40
-    D41
-    D42
     D43
     D44
     D45
@@ -327,23 +329,27 @@ Used DCodes :
     D61
     D62
     D63
+    D64
+    D65
+    D66
+    D67
+    D68
+    D69
+    D70
+    D71
+    D72
+    D73
+    D74
 *************************************************************
 
 *************************************************************
-Generating : Top Overlay
-      File : SM3320-BATT-EV.GTO
+Generating : Keep-Out Layer
+      File : SM3320-BATT-EV.GKO
 
-    Adding Layer      : Top Overlay
+    Adding Layer      : Keep-Out Layer
 
 
 Used DCodes :
-    D10
-    D11
-    D12
-    D13
-    D14
-    D15
-    D16
 *************************************************************
 
 *************************************************************
@@ -357,14 +363,9 @@ Generating : Bottom Layer
 
 Used DCodes :
     D10
-    D64
-    D114
-    D145
-    D146
-    D147
-    D148
-    D149
-    D150
+    D75
+    D77
+    D78
     D151
     D152
     D153
@@ -393,5 +394,21 @@ Used DCodes :
     D176
     D177
     D178
+*************************************************************
+
+*************************************************************
+Generating : M30 Board Outline
+      File : SM3320-BATT-EV.GM30
+
+    Adding Layer      : M30 Board Outline
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D14
+    D16
+    D179
 *************************************************************
 
