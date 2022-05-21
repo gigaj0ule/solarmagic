@@ -1,0 +1,3 @@
+Change Component Comment : Designator=U8 Old Comment=SM7442MTE/NOPB New Comment=SM72442MTE/NOPB
+Added Pin To Net: NetName=NetC24_1 Pin=R9-2
+Added Pin To Net: NetName=NetC24_1 Pin=U1-5
