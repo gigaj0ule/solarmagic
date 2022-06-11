@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=VOUT_P Pin=D7-1
+Removed Pin From Net: NetName=VIN_N Pin=D13-1
+Removed Pin From Net: NetName=VIN_N Pin=Q1-2
+Removed Pin From Net: NetName=VOUT_P Pin=Q2-2
+Removed Pin From Net: NetName=VIN_N Pin=R1-1
+Removed Pin From Net: NetName=VOUT_P Pin=R10-1
+Removed Pin From Net: NetName=VOUT_P Pin=RA1_P-1
+Removed Pin From Net: NetName=VIN_N Pin=RB1_P-1
+Added Pin To Net: NetName=VIN_N Pin=D7-1
+Added Pin To Net: NetName=VOUT_P Pin=D13-1
+Added Pin To Net: NetName=VOUT_P Pin=Q1-2
+Added Pin To Net: NetName=VIN_N Pin=Q2-2
+Added Pin To Net: NetName=VOUT_P Pin=R1-1
+Added Pin To Net: NetName=VIN_N Pin=R10-1
+Added Pin To Net: NetName=VIN_N Pin=RA1_P-1
+Added Pin To Net: NetName=VOUT_P Pin=RB1_P-1
+Change Net Name : Old Net Name=VIN_N New Net Name=VOUT_P
+Change Net Name : Old Net Name=VOUT_P New Net Name=VIN_N

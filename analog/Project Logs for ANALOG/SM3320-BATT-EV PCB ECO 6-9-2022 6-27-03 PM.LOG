@@ -1,0 +1,69 @@
+Removed Pin From Net: NetName=VOUT_P Pin=D7-1
+Removed Pin From Net: NetName=VOUT_P Pin=Q2-2
+Added Component: Designator=L10(SRR1260)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Isat"; Value = "1.6A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLC Availability"; Value = "Extended"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C169380"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "220uH"; VariantName = "[No Variations]"
+Added Component: Designator=L11(SRR1260)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Isat"; Value = "1.6A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLC Availability"; Value = "Extended"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C169380"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "220uH"; VariantName = "[No Variations]"
+Added Component: Designator=L12(SRR1260)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Isat"; Value = "1.6A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLC Availability"; Value = "Extended"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C169380"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "220uH"; VariantName = "[No Variations]"
+Added Component: Designator=L13(SRR1260)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Isat"; Value = "1.6A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLC Availability"; Value = "Extended"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C169380"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "220uH"; VariantName = "[No Variations]"
+Added Component: Designator=L14(SRR1260)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Isat"; Value = "1.6A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLC Availability"; Value = "Extended"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C169380"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "220uH"; VariantName = "[No Variations]"
+Added Component: Designator=L15(SRR1260)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Isat"; Value = "1.6A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLC Availability"; Value = "Extended"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C169380"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "220uH"; VariantName = "[No Variations]"
+Added Component: Designator=L16(SRR1260)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Isat"; Value = "1.6A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLC Availability"; Value = "Extended"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C169380"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "220uH"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VIN_N Pin=D7-1
+Added Pin To Net: NetName=HS_B Pin=L9-1
+Added Pin To Net: NetName=VOUT_P Pin=L9-2
+Added Pin To Net: NetName=HS_B Pin=L10-1
+Added Pin To Net: NetName=VOUT_P Pin=L10-2
+Added Pin To Net: NetName=HS_B Pin=L11-1
+Added Pin To Net: NetName=VOUT_P Pin=L11-2
+Added Pin To Net: NetName=HS_B Pin=L12-1
+Added Pin To Net: NetName=VOUT_P Pin=L12-2
+Added Pin To Net: NetName=HS_B Pin=L13-1
+Added Pin To Net: NetName=VOUT_P Pin=L13-2
+Added Pin To Net: NetName=HS_B Pin=L14-1
+Added Pin To Net: NetName=VOUT_P Pin=L14-2
+Added Pin To Net: NetName=HS_B Pin=L15-1
+Added Pin To Net: NetName=VOUT_P Pin=L15-2
+Added Pin To Net: NetName=HS_B Pin=L16-1
+Added Pin To Net: NetName=VOUT_P Pin=L16-2
+Added Pin To Net: NetName=VIN_N Pin=Q2-2
+Added Member To Class: ClassName=SM3320-BATT-EV Member=Component L10 SWRB1207S-221MT
+Added Member To Class: ClassName=SM3320-BATT-EV Member=Component L11 SWRB1207S-221MT
+Added Member To Class: ClassName=SM3320-BATT-EV Member=Component L12 SWRB1207S-221MT
+Added Member To Class: ClassName=SM3320-BATT-EV Member=Component L13 SWRB1207S-221MT
+Added Member To Class: ClassName=SM3320-BATT-EV Member=Component L14 SWRB1207S-221MT
+Added Member To Class: ClassName=SM3320-BATT-EV Member=Component L15 SWRB1207S-221MT
+Added Member To Class: ClassName=SM3320-BATT-EV Member=Component L16 SWRB1207S-221MT

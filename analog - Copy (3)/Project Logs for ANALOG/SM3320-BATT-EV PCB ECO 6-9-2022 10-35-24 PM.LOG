@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=HS_A Pin=L13-1
+Removed Pin From Net: NetName=HS_B Pin=L13-2
+Removed Pin From Net: NetName=HS_A Pin=L14-1
+Removed Pin From Net: NetName=HS_B Pin=L14-2
+Removed Pin From Net: NetName=HS_A Pin=L15-1
+Removed Pin From Net: NetName=HS_B Pin=L15-2
+Removed Pin From Net: NetName=HS_A Pin=L16-1
+Removed Pin From Net: NetName=HS_B Pin=L16-2
+Removed Member From Class: ClassName=SM3320-BATT-EV Member=L13
+Removed Member From Class: ClassName=SM3320-BATT-EV Member=L14
+Removed Member From Class: ClassName=SM3320-BATT-EV Member=L15
+Removed Member From Class: ClassName=SM3320-BATT-EV Member=L16

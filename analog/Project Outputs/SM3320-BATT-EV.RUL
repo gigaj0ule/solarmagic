@@ -1,0 +1,23 @@
+DRC Rules Export File for PCB: C:\Users\user\Nextcloud\PC-SYNC\Projects\_source_codes\github\solarmagic\SM3320-BATT-EV.PcbDoc
+RuleKind=Clearance|RuleName=Clearance_13|Scope=Board|Minimum=16.00
+RuleKind=Clearance|RuleName=Clearance_12|Scope=Board|Minimum=24.00
+RuleKind=Clearance|RuleName=Clearance_11|Scope=Board|Minimum=24.00
+RuleKind=Clearance|RuleName=Clearance_10|Scope=Board|Minimum=25.00
+RuleKind=Clearance|RuleName=Clearance_8|Scope=Board|Minimum=25.00
+RuleKind=Clearance|RuleName=Clearance_3|Scope=Board|Minimum=25.00
+RuleKind=Clearance|RuleName=Clearance_1|Scope=Board|Minimum=25.00
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=40.00
+RuleKind=Clearance|RuleName=Clearance_2|Scope=Board|Minimum=10.00
+RuleKind=Clearance|RuleName=Clearance_9|Scope=Board|Minimum=0.00
+RuleKind=MinimumAnnularRing|RuleName=MinimumAnnularRing|Scope=Board|Minimum=8.00
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=2.00
+RuleKind=ShortCircuit|RuleName=ShortCircuit_1|Scope=Board|Allowed=0
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion_1|Scope=Board|Minimum=2.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=6.00
+RuleKind=Clearance|RuleName=HV_NETS|Scope=Board|Minimum=24.00
+RuleKind=Clearance|RuleName=Clearance_4|Scope=Board|Minimum=9.50
+RuleKind=Clearance|RuleName=Clearance_7|Scope=Board|Minimum=9.50
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion_2|Scope=Board|Minimum=-14.00
+RuleKind=Clearance|RuleName=Clearance_5|Scope=Board|Minimum=25.00
+RuleKind=Clearance|RuleName=Clearance_6|Scope=Board|Minimum=16.00

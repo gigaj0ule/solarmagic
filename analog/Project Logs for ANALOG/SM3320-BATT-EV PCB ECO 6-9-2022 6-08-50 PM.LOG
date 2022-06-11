@@ -1,0 +1,26 @@
+Removed Pin From Net: NetName=HS_B Pin=L1-2
+Removed Pin From Net: NetName=HS_B Pin=L2-2
+Removed Pin From Net: NetName=HS_B Pin=L3-2
+Removed Pin From Net: NetName=HS_B Pin=L4-2
+Removed Pin From Net: NetName=HS_B Pin=L5-2
+Removed Pin From Net: NetName=HS_B Pin=L6-2
+Removed Pin From Net: NetName=HS_A Pin=L7-1
+Removed Pin From Net: NetName=HS_B Pin=L7-2
+Removed Pin From Net: NetName=HS_A Pin=L8-1
+Removed Pin From Net: NetName=HS_B Pin=L8-2
+Removed Pin From Net: NetName=HS_A Pin=L9-1
+Removed Pin From Net: NetName=HS_B Pin=L9-2
+Added Pin To Net: NetName=VOUT_P Pin=L1-2
+Added Pin To Net: NetName=VOUT_P Pin=L2-2
+Added Pin To Net: NetName=VOUT_P Pin=L3-2
+Added Pin To Net: NetName=VOUT_P Pin=L4-2
+Added Pin To Net: NetName=VOUT_P Pin=L5-2
+Added Pin To Net: NetName=VOUT_P Pin=L6-2
+Added Pin To Net: NetName=NetL7_1 Pin=L7-1
+Added Pin To Net: NetName=NetL7_1 Pin=L8-1
+Added Pin To Net: NetName=NetL7_1 Pin=L9-1
+Added Net: Name=NetL7_1
+Added Pin To Net: NetName=NetL7_2 Pin=L7-2
+Added Pin To Net: NetName=NetL7_2 Pin=L8-2
+Added Pin To Net: NetName=NetL7_2 Pin=L9-2
+Added Net: Name=NetL7_2

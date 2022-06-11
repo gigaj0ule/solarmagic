@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=PGND Pin=NT1-1
+Removed Pin From Net: NetName=GND Pin=NT1-2
+Removed Pin From Net: NetName=PGND Pin=RA2_N-1
+Removed Pin From Net: NetName=A1_P Pin=RA2_N-2
+Removed Pin From Net: NetName=GND_OUT Pin=RA2_P-1
+Removed Pin From Net: NetName=A1_N Pin=RA2_P-2
+Removed Pin From Net: NetName=GND_IN Pin=RB2_N-1
+Removed Pin From Net: NetName=A2_N Pin=RB2_N-2
+Removed Pin From Net: NetName=PGND Pin=RB2_P-1
+Removed Pin From Net: NetName=A2_P Pin=RB2_P-2
+Removed Member From Class: ClassName=SM3320-BATT-EV Member=NT1
+Removed Member From Class: ClassName=SM3320-BATT-EV Member=RA2_N
+Removed Member From Class: ClassName=SM3320-BATT-EV Member=RA2_P
+Removed Member From Class: ClassName=SM3320-BATT-EV Member=RB2_N
+Removed Member From Class: ClassName=SM3320-BATT-EV Member=RB2_P

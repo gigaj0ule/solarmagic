@@ -1,0 +1,29 @@
+Removed Pin From Net: NetName=VIN_N Pin=C4-2
+Removed Pin From Net: NetName=VIN_N Pin=C5-2
+Removed Pin From Net: NetName=VIN_N Pin=C6-2
+Removed Pin From Net: NetName=VIN_N Pin=C7-2
+Removed Pin From Net: NetName=VIN_N Pin=C8-2
+Removed Pin From Net: NetName=VIN_N Pin=C9-2
+Removed Pin From Net: NetName=VIN_N Pin=C10-2
+Removed Pin From Net: NetName=VIN_N Pin=C11-2
+Removed Pin From Net: NetName=VIN_N Pin=C12-2
+Removed Pin From Net: NetName=VIN_N Pin=C13-2
+Removed Pin From Net: NetName=VIN_N Pin=C70-2
+Removed Pin From Net: NetName=VIN_N Pin=C72-2
+Added Component: Designator=NT2(NET_TIE)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=VOUT_P Pin=C4-2
+Added Pin To Net: NetName=VOUT_P Pin=C5-2
+Added Pin To Net: NetName=VOUT_P Pin=C6-2
+Added Pin To Net: NetName=VOUT_P Pin=C7-2
+Added Pin To Net: NetName=VOUT_P Pin=C8-2
+Added Pin To Net: NetName=VOUT_P Pin=C9-2
+Added Pin To Net: NetName=VOUT_P Pin=C10-2
+Added Pin To Net: NetName=VOUT_P Pin=C11-2
+Added Pin To Net: NetName=VOUT_P Pin=C12-2
+Added Pin To Net: NetName=VOUT_P Pin=C13-2
+Added Pin To Net: NetName=VOUT_P Pin=C70-2
+Added Pin To Net: NetName=VOUT_P Pin=C72-2
+Added Pin To Net: NetName=AGND Pin=NT2-1
+Added Pin To Net: NetName=GND Pin=NT2-2
+Added Member To Class: ClassName=SM3320-BATT-EV Member=Component NT2 0

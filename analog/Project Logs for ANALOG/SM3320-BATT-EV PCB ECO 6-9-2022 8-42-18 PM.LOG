@@ -1,0 +1,24 @@
+Removed Pin From Net: NetName=VIN_N Pin=R10-1
+Removed Pin From Net: NetName=VIN_N Pin=R51-2
+Removed Pin From Net: NetName=VIN_N Pin=RA1_P-1
+Change Component DesignItemId : Designator=C61 Old DesignItemId=CL05A105KA5NQNC New DesignItemId=0402B102K500NT
+Change Component DesignItemId : Designator=C62 Old DesignItemId=CL05A105KA5NQNC New DesignItemId=0402B102K500NT
+Change Component Comment : Designator=C61 Old Comment=CL05A105KA5NQNC New Comment=0402B102K500NT
+Change Component Comment : Designator=C62 Old Comment=CL05A105KA5NQNC New Comment=0402B102K500NT
+Change Component Description : Designator=C61 Old Description=C - CAPACITOR - MLCC - 1uF - 25V - 0402 New Description=C - CAPACITOR - MLCC - 1nF - 50V - 0402
+Change Component Description : Designator=C62 Old Description=C - CAPACITOR - MLCC - 1uF - 25V - 0402 New Description=C - CAPACITOR - MLCC - 1nF - 50V - 0402
+Change component parameters: Designator = "C61"; Footprint = "C_0402"; UniqueID = "\QYTLTLBP"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C1523"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "WVDC"; Value = "50"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C62"; Footprint = "C_0402"; UniqueID = "\NIWULCBI"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C1523"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "WVDC"; Value = "50"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VOUT_P Pin=R10-1
+Added Pin To Net: NetName=VOUT_P Pin=R51-2
+Added Pin To Net: NetName=VOUT_P Pin=RA1_P-1

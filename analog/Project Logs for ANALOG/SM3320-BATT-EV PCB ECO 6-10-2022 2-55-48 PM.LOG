@@ -1,0 +1,64 @@
+Removed Pin From Net: NetName=10VDC Pin=C31-1
+Removed Pin From Net: NetName=GND Pin=C31-2
+Removed Pin From Net: NetName=GND Pin=C32-1
+Removed Pin From Net: NetName=+5VDC Pin=C32-2
+Removed Pin From Net: NetName=10VDC Pin=C35-1
+Removed Pin From Net: NetName=GND Pin=C35-2
+Removed Pin From Net: NetName=HS_A Pin=C46-2
+Removed Pin From Net: NetName=HS_B Pin=C54-2
+Removed Pin From Net: NetName=GND Pin=C58-1
+Removed Pin From Net: NetName=GND Pin=C60-1
+Removed Pin From Net: NetName=AGND Pin=C61-1
+Removed Pin From Net: NetName=AGND Pin=C62-1
+Removed Pin From Net: NetName=A1_P Pin=R8-1
+Removed Pin From Net: NetName=A1_N Pin=R12-1
+Removed Pin From Net: NetName=A2_N Pin=R24_A-2
+Removed Pin From Net: NetName=A2_P Pin=R24_B-2
+Removed Pin From Net: NetName=AGND Pin=R56-1
+Removed Pin From Net: NetName=AGND Pin=R116-1
+Removed Pin From Net: NetName=GND Pin=R121-2
+Removed Pin From Net: NetName=AGND Pin=U7-5
+Removed Pin From Net: NetName=+5VDC Pin=U7-17
+Removed Pin From Net: NetName=HS_B Pin=U7-18
+Removed Pin From Net: NetName=HO_B Pin=U7-19
+Removed Pin From Net: NetName=10VDC Pin=U7-21
+Removed Pin From Net: NetName=LO_B Pin=U7-22
+Removed Pin From Net: NetName=GND Pin=U7-23
+Removed Pin From Net: NetName=LO_A Pin=U7-24
+Removed Pin From Net: NetName=10VDC Pin=U7-25
+Removed Pin From Net: NetName=HO_A Pin=U7-27
+Removed Pin From Net: NetName=HS_A Pin=U7-28
+Removed Member From Class: ClassName=SM3320-BATT-EV Member=C31
+Removed Member From Class: ClassName=SM3320-BATT-EV Member=C32
+Removed Member From Class: ClassName=SM3320-BATT-EV Member=C35
+Removed Member From Class: ClassName=SM3320-BATT-EV Member=C46
+Removed Member From Class: ClassName=SM3320-BATT-EV Member=C54
+Removed Member From Class: ClassName=SM3320-BATT-EV Member=C58
+Removed Member From Class: ClassName=SM3320-BATT-EV Member=C60
+Removed Member From Class: ClassName=SM3320-BATT-EV Member=C61
+Removed Member From Class: ClassName=SM3320-BATT-EV Member=C62
+Removed Member From Class: ClassName=SM3320-BATT-EV Member=R8_A
+Removed Member From Class: ClassName=SM3320-BATT-EV Member=R8
+Removed Member From Class: ClassName=SM3320-BATT-EV Member=R12_A
+Removed Member From Class: ClassName=SM3320-BATT-EV Member=R12
+Removed Member From Class: ClassName=SM3320-BATT-EV Member=R24_A
+Removed Member From Class: ClassName=SM3320-BATT-EV Member=R24_B
+Removed Member From Class: ClassName=SM3320-BATT-EV Member=R24
+Removed Member From Class: ClassName=SM3320-BATT-EV Member=R34
+Removed Member From Class: ClassName=SM3320-BATT-EV Member=R37
+Removed Member From Class: ClassName=SM3320-BATT-EV Member=R44
+Removed Member From Class: ClassName=SM3320-BATT-EV Member=R56
+Removed Member From Class: ClassName=SM3320-BATT-EV Member=R116
+Removed Member From Class: ClassName=SM3320-BATT-EV Member=R121
+Removed Member From Class: ClassName=SM3320-BATT-EV Member=U7
+Added Component: Designator=U(QFN-39-P0.5MM)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Extended"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DigiKey-Purchase-URL"; Value = "https://snapeda.com/shop?store=DigiKey&id=4330144"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C674170"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Analog Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "LT8705AIUHF#TRPBF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "QFN -38 Analog Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/LT8705IUHF%23TRPBF/Analog%20Devices/view-part/4330144/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Member To Class: ClassName=SM3320-BATT-EV Member=Component U LT8705IUHF#TRPBF
