@@ -1,0 +1,11 @@
+Added Component: Designator=R?(R_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C25077"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10R"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GATEVCC_R Pin=R?-1
+Added Pin To Net: NetName=GATEVCC Pin=R?-2
+Added Pin To Net: NetName=GATEVCC Pin=U-15
+Added Net: Name=GATEVCC
+Added Member To Class: ClassName=SM3320-BATT-EV Member=Component D2 N4148WS
+Added Member To Class: ClassName=SM3320-BATT-EV Member=Component R? 0402WGF100JTCE

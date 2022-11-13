@@ -1,0 +1,8 @@
+Added Pin To Net: NetName=LO_A Pin=U-14
+Added Pin To Net: NetName=HO_A Pin=U-22
+Change Net Name : Old Net Name=HO_A New Net Name=TG1
+Change Net Name : Old Net Name=LO_A New Net Name=BG1
+Added Pin To Net: NetName=BG2 Pin=U-16
+Added Net: Name=BG2
+Added Pin To Net: NetName=TG2 Pin=U-18
+Added Net: Name=TG2

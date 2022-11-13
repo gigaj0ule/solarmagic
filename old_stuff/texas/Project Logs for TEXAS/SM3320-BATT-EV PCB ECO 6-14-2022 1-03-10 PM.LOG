@@ -1,0 +1,9 @@
+Change Component DesignItemId : Designator=C56 Old DesignItemId=CL05A106MQ5NUNC New DesignItemId=CL05A105KA5NQNC
+Change Component Comment : Designator=C56 Old Comment=CL05A106MQ5NUNC New Comment=CL05A105KA5NQNC
+Change Component Description : Designator=C56 Old Description=C - CAPACITOR - MLCC - 10uF - 6.3V - 0402 New Description=C - CAPACITOR - MLCC - 1uF - 25V - 0402
+Change component parameters: Designator = "C56"; Footprint = "C_0402"; UniqueID = "\BHCOMTQC"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C52923"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "WVDC"; Value = "16"; VariantName = "[No Variations]"

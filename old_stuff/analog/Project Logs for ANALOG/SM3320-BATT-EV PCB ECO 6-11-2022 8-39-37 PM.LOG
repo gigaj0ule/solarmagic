@@ -1,0 +1,22 @@
+Change Component Designator: OldDesignator=D2 NewDesignator=D20
+Added Component: Designator=D1(SOD-323)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "If"; Value = "150mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C2128"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PIV"; Value = "100V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Trr"; Value = "4ns"; VariantName = "[No Variations]"
+Added Component: Designator=D2(SOD-323)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "If"; Value = "150mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C2128"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PIV"; Value = "100V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Trr"; Value = "4ns"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=BOOST1 Pin=D1-1
+Added Pin To Net: NetName=BOOST2 Pin=D2-1
+Added Pin To Net: NetName=GATEVCC_R Pin=D1-2
+Added Pin To Net: NetName=GATEVCC_R Pin=D2-2
+Added Net: Name=GATEVCC_R
+Added Member To Class: ClassName=SM3320-BATT-EV Member=Component D1 N4148WS
+Added Member To Class: ClassName=SM3320-BATT-EV Member=Component D20 SS210

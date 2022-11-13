@@ -1,0 +1,12 @@
+Added Component: Designator=Cslope(C_0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C1664"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "330pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "WVDC"; Value = "50"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=Cslope-1
+Added Pin To Net: NetName=GND Pin=U?-5
+Added Pin To Net: NetName=NetCslope_2 Pin=Cslope-2
+Added Pin To Net: NetName=NetCslope_2 Pin=U?-7
+Added Net: Name=NetCslope_2
+Added Member To Class: ClassName=SM3320-BATT-EV Member=Component Cslope CL10C331JB8NNNC

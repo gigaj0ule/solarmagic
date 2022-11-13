@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=FBOUT Pin=Rfb1-2
+Removed Pin From Net: NetName=FBIN Pin=Rfb2-2
+Removed Member From Class: ClassName=SM3320-BATT-EV Member=Rfb1
+Removed Member From Class: ClassName=SM3320-BATT-EV Member=Rfb2

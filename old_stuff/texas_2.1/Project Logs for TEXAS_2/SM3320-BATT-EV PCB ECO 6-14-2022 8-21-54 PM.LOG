@@ -1,0 +1,144 @@
+Change Component Designator: OldDesignator=C50 NewDesignator=C58
+Change Component Designator: OldDesignator=C51 NewDesignator=C61
+Change Component Designator: OldDesignator=C52 NewDesignator=C53
+Change Component Designator: OldDesignator=R13 NewDesignator=R213
+Change Component Designator: OldDesignator=R40 NewDesignator=Rcs
+Change Component Designator: OldDesignator=R53 NewDesignator=R58
+Added Component: Designator=C50(C_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C1525"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "WVDC"; Value = "16"; VariantName = "[No Variations]"
+Added Component: Designator=C51(C_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C1525"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "WVDC"; Value = "16"; VariantName = "[No Variations]"
+Added Component: Designator=C52(C_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C1525"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "WVDC"; Value = "16"; VariantName = "[No Variations]"
+Added Component: Designator=R13(R_0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C22936"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100k"; VariantName = "[No Variations]"
+Added Component: Designator=R40(R_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C26083"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1M"; VariantName = "[No Variations]"
+Added Component: Designator=R51(R_0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C22936"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100k"; VariantName = "[No Variations]"
+Added Component: Designator=R53(R_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C25900"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4.7k"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C29-1
+Added Pin To Net: NetName=AVIN Pin=C29-2
+Added Pin To Net: NetName=NetC33_1 Pin=C33-1
+Added Pin To Net: NetName=GND Pin=C33-2
+Added Pin To Net: NetName=GND Pin=C34-1
+Added Pin To Net: NetName=+5VDC Pin=C34-2
+Added Pin To Net: NetName=+5VDC Pin=C37-1
+Added Pin To Net: NetName=GND Pin=C37-2
+Added Pin To Net: NetName=GND Pin=C39-1
+Added Pin To Net: NetName=NetC33_1 Pin=C39-2
+Added Pin To Net: NetName=GND Pin=C49-1
+Added Pin To Net: NetName=NetC49_2 Pin=C49-2
+Added Pin To Net: NetName=GND Pin=C50-1
+Added Pin To Net: NetName=NetC50_2 Pin=C50-2
+Added Pin To Net: NetName=GND Pin=C51-1
+Added Pin To Net: NetName=NetC51_2 Pin=C51-2
+Added Pin To Net: NetName=NetC52_1 Pin=C52-1
+Added Pin To Net: NetName=GND Pin=C52-2
+Added Pin To Net: NetName=GND Pin=C59-1
+Added Pin To Net: NetName=AVOUT Pin=C59-2
+Added Pin To Net: NetName=GND Pin=C66-1
+Added Pin To Net: NetName=nRST Pin=C66-2
+Added Pin To Net: NetName=GND Pin=C69-1
+Added Pin To Net: NetName=NC4 Pin=C69-2
+Added Pin To Net: NetName=AVIN Pin=R13-1
+Added Pin To Net: NetName=VIN_N Pin=R13-2
+Added Pin To Net: NetName=AVIN Pin=R20-1
+Added Pin To Net: NetName=GND Pin=R20-2
+Added Pin To Net: NetName=NetC33_1 Pin=R21-1
+Added Pin To Net: NetName=+5VDC Pin=R21-2
+Added Pin To Net: NetName=nRST Pin=R26-1
+Added Pin To Net: NetName=+5VDC Pin=R26-2
+Added Pin To Net: NetName=NetC49_2 Pin=R28-1
+Added Pin To Net: NetName=+5VDC Pin=R28-2
+Added Pin To Net: NetName=NetC50_2 Pin=R29-1
+Added Pin To Net: NetName=+5VDC Pin=R29-2
+Added Pin To Net: NetName=+5VDC Pin=R30-1
+Added Pin To Net: NetName=NetC51_2 Pin=R30-2
+Added Pin To Net: NetName=NetC52_1 Pin=R31-1
+Added Pin To Net: NetName=+5VDC Pin=R31-2
+Added Pin To Net: NetName=GND Pin=R38-1
+Added Pin To Net: NetName=NetC49_2 Pin=R38-2
+Added Pin To Net: NetName=GND Pin=R39-1
+Added Pin To Net: NetName=NetC50_2 Pin=R39-2
+Added Pin To Net: NetName=GND Pin=R40-1
+Added Pin To Net: NetName=NetC51_2 Pin=R40-2
+Added Pin To Net: NetName=GND Pin=R41-1
+Added Pin To Net: NetName=NetC52_1 Pin=R41-2
+Added Pin To Net: NetName=+5VDC Pin=R45-1
+Added Pin To Net: NetName=NetR45_2 Pin=R45-2
+Added Pin To Net: NetName=5V_SDA Pin=R47-1
+Added Pin To Net: NetName=+5VDC Pin=R47-2
+Added Pin To Net: NetName=5V_SCL Pin=R48-1
+Added Pin To Net: NetName=+5VDC Pin=R48-2
+Added Pin To Net: NetName=AVOUT Pin=R51-1
+Added Pin To Net: NetName=VOUT_P Pin=R51-2
+Added Pin To Net: NetName=AVOUT Pin=R53-1
+Added Pin To Net: NetName=GND Pin=R53-2
+Added Pin To Net: NetName=NC4 Pin=R87_a-1
+Added Pin To Net: NetName=+5VDC Pin=R87_a-2
+Added Pin To Net: NetName=nRST Pin=U8-1
+Added Pin To Net: NetName=GND Pin=U8-2
+Added Pin To Net: NetName=+5VDC Pin=U8-3
+Added Pin To Net: NetName=GND Pin=U8-4
+Added Pin To Net: NetName=NetR45_2 Pin=U8-5
+Added Pin To Net: NetName=+5VDC Pin=U8-6
+Added Pin To Net: NetName=GND Pin=U8-7
+Added Pin To Net: NetName=5V_SCL Pin=U8-8
+Added Pin To Net: NetName=5V_SDA Pin=U8-9
+Added Pin To Net: NetName=GND Pin=U8-10
+Added Pin To Net: NetName=NetC33_1 Pin=U8-12
+Added Pin To Net: NetName=AGND Pin=U8-13
+Added Pin To Net: NetName=NetC49_2 Pin=U8-14
+Added Pin To Net: NetName=AVIN Pin=U8-15
+Added Pin To Net: NetName=NetC50_2 Pin=U8-16
+Added Pin To Net: NetName=AVOUT Pin=U8-17
+Added Pin To Net: NetName=NetC51_2 Pin=U8-18
+Added Pin To Net: NetName=BIN Pin=U8-19
+Added Pin To Net: NetName=NetC52_1 Pin=U8-20
+Added Pin To Net: NetName=BOUT Pin=U8-21
+Added Pin To Net: NetName=GND Pin=U8-22
+Added Pin To Net: NetName=NC4 Pin=U8-23
+Added Pin To Net: NetName=LIB Pin=U8-24
+Added Pin To Net: NetName=HIB Pin=U8-25
+Added Pin To Net: NetName=HIA Pin=U8-26
+Added Pin To Net: NetName=LIA Pin=U8-27
+Added Pin To Net: NetName=PM Pin=U8-28
+Added Member To Class: ClassName=SM3320-BATT-EV Member=Component C50 CL05B104KO5NNNC
+Added Member To Class: ClassName=SM3320-BATT-EV Member=Component C51 CL05B104KO5NNNC
+Added Member To Class: ClassName=SM3320-BATT-EV Member=Component C52 CL05B104KO5NNNC
+Added Member To Class: ClassName=SM3320-BATT-EV Member=Component C53 VZH470M2ATR-1010
+Added Member To Class: ClassName=SM3320-BATT-EV Member=Component C58 1206B105K101NT
+Added Member To Class: ClassName=SM3320-BATT-EV Member=Component C61 1206B105K101NT
+Added Member To Class: ClassName=SM3320-BATT-EV Member=Component R13 0603WAF100KT5E
+Added Member To Class: ClassName=SM3320-BATT-EV Member=Component R40 0402WGF1004TCE
+Added Member To Class: ClassName=SM3320-BATT-EV Member=Component R51 0603WAF100KT5E
+Added Member To Class: ClassName=SM3320-BATT-EV Member=Component R53 0402WGF4701TCE
+Added Member To Class: ClassName=SM3320-BATT-EV Member=Component R58 0603WAF100KT5E
+Added Member To Class: ClassName=SM3320-BATT-EV Member=Component R213 0603WAF100KT5E
+Added Member To Class: ClassName=SM3320-BATT-EV Member=Component Rcs 1m

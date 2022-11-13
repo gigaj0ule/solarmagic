@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=GND Pin=U?-5
+Change Component DesignItemId : Designator=Rf Old DesignItemId=0402WGF0000TCE New DesignItemId=0402WGF100JTCE
+Change Component Comment : Designator=Rf Old Comment=0402WGF0000TCE New Comment=0402WGF100JTCE
+Change Component Designator: OldDesignator=U? NewDesignator=U1
+Change Component Description : Designator=Rf Old Description=R - RESISTOR - SMD - 0R - 1% - 0402 New Description=R - RESISTOR - SMD - 10R - 1% - 0402
+Change component parameters: Designator = "Rf"; Footprint = "R_0402"; UniqueID = "\GXBMWBOI"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C25077"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10R"; VariantName = "[No Variations]"
+Added Component: Designator=Cdither(C_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C1532"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "WVDC"; Value = "50"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=Cdither-1
+Added Pin To Net: NetName=DITHER Pin=Cdither-2
+Added Pin To Net: NetName=DITHER Pin=U1-5
+Added Net: Name=DITHER
+Added Member To Class: ClassName=SM3320-BATT-EV Member=Component Cdither 0402B223K500NT

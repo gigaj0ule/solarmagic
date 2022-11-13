@@ -1,0 +1,18 @@
+Added Pin To Net: NetName=5V_SCL Pin=Qscl-3
+Added Pin To Net: NetName=5V_SDA Pin=Qsda-3
+Added Pin To Net: NetName=3V3_SCL Pin=Qscl-2
+Added Pin To Net: NetName=3V3_SCL Pin=Rscl-1
+Added Net: Name=3V3_SCL
+Added Pin To Net: NetName=3V3_SDA Pin=Qsda-2
+Added Pin To Net: NetName=3V3_SDA Pin=Rsda-1
+Added Net: Name=3V3_SDA
+Added Pin To Net: NetName=VCC_3V3 Pin=Qscl-1
+Added Pin To Net: NetName=VCC_3V3 Pin=Qsda-1
+Added Pin To Net: NetName=VCC_3V3 Pin=Rscl-2
+Added Pin To Net: NetName=VCC_3V3 Pin=Rsda-2
+Added Net: Name=VCC_3V3
+Added Member To Class: ClassName=SM3320-BATT-EV Member=Component Df N4148WS
+Added Member To Class: ClassName=SM3320-BATT-EV Member=Component Qscl 2N7002
+Added Member To Class: ClassName=SM3320-BATT-EV Member=Component Qsda 2N7002
+Added Member To Class: ClassName=SM3320-BATT-EV Member=Component Rscl 0402WGF1002TCE
+Added Member To Class: ClassName=SM3320-BATT-EV Member=Component Rsda 0402WGF1002TCE

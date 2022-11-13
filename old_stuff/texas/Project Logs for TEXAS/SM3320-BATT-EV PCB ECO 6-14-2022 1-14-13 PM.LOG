@@ -1,0 +1,18 @@
+Change Component Designator: OldDesignator=C13 NewDesignator=Cboot2
+Change Component Designator: OldDesignator=C47 NewDesignator=Cboot1
+Change Component Designator: OldDesignator=C57 NewDesignator=Cvcc
+Change Component Designator: OldDesignator=C58 NewDesignator=Cbias
+Change Component Designator: OldDesignator=C59 NewDesignator=Css
+Change Component Designator: OldDesignator=C62 NewDesignator=Ccomp2
+Change Component Designator: OldDesignator=C63 NewDesignator=Ccomp
+Change Component Designator: OldDesignator=D1 NewDesignator=Dboot1
+Change Component Designator: OldDesignator=D2 NewDesignator=Dboot2
+Change Component Designator: OldDesignator=R47 NewDesignator=Rt
+Change Component Designator: OldDesignator=R50 NewDesignator=Rcomp
+Change component parameters: Designator = "Ccomp"; Footprint = "C_0402"; UniqueID = "\OTQIPNHH"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Ccomp"; Value = "10nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C15195"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "WVDC"; Value = "50"; VariantName = "[No Variations]"
+Change Net Name : Old Net Name=NetC63_2 New Net Name=NetCcomp_2

@@ -1,0 +1,35 @@
+Change Component DesignItemId : Designator=R41 Old DesignItemId=0402WGF1003TCE New DesignItemId=0402WGF1004TCE
+Change Component DesignItemId : Designator=R1 Old DesignItemId=EWSL2512F1L00S9 New DesignItemId=FMF25FPJR005-LH
+Change Component DesignItemId : Designator=R10 Old DesignItemId=EWSL2512F1L00S9 New DesignItemId=FMF25FPJR005-LH
+Change Component DesignItemId : Designator=Rcs Old DesignItemId=EWSL2512F1L00S9 New DesignItemId=FMF25FPJR005-LH
+Change Component Comment : Designator=R41 Old Comment=0402WGF1003TCE New Comment=0402WGF1004TCE
+Change Component Description : Designator=R1 Old Description=R - RESISTOR - SMD - 0.001R - 1% - 2512 - 2W - 50ppm/k New Description=R - RESISTOR - SMD - 0.005R - 1% - 2512 - 2W
+Change Component Description : Designator=R10 Old Description=R - RESISTOR - SMD - 0.001R - 1% - 2512 - 2W - 50ppm/k New Description=R - RESISTOR - SMD - 0.005R - 1% - 2512 - 2W
+Change Component Description : Designator=Rcs Old Description=R - RESISTOR - SMD - 0.001R - 1% - 2512 - 2W - 50ppm/k New Description=R - RESISTOR - SMD - 0.005R - 1% - 2512 - 2W
+Change Component Description : Designator=R41 Old Description=R - RESISTOR - SMD - 100k - 1% -  0402 New Description=R - RESISTOR - SMD - 1M - 1% - 0402
+Change component parameters: Designator = "R1"; Footprint = "R_2512"; UniqueID = "\PFHRULHT"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "http://riedon.com/media/pdf/CSR.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://riedon.com/media/pdf/CSR.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "JLC Availability"; Value = "Extended"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C371096"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "2W"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R10"; Footprint = "R_2512"; UniqueID = "\YAXNWPAH"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "http://riedon.com/media/pdf/CSR.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://riedon.com/media/pdf/CSR.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "JLC Availability"; Value = "Extended"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C371096"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "2W"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Rcs"; Footprint = "R_2512"; UniqueID = "\HIAPOANY"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "http://riedon.com/media/pdf/CSR.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://riedon.com/media/pdf/CSR.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "JLC Availability"; Value = "Extended"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C371096"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "2W"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R41"; Footprint = "R_0402"; UniqueID = "\YDYBYSLX"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C26083"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1M"; VariantName = "[No Variations]"

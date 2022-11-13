@@ -1,0 +1,10 @@
+Added Component: Designator=Rpgood(R_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C25744"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=PGOOD Pin=Rpgood-1
+Added Pin To Net: NetName=PGOOD Pin=Rpgood-2
+Added Pin To Net: NetName=PGOOD Pin=U?-17
+Added Net: Name=PGOOD
+Added Member To Class: ClassName=SM3320-BATT-EV Member=Component Rpgood 0402WGF1002TCE

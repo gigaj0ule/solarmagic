@@ -1,0 +1,45 @@
+Added Component: Designator=U1(TSSOP-28-EP-P0.65MM-W4.4MM)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Extended"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C442493"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "LM5176QPWPR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=U1-0
+Added Pin To Net: NetName=EN Pin=U1-1
+Added Pin To Net: NetName=VIN_D Pin=U1-2
+Added Pin To Net: NetName=VISNS Pin=U1-3
+Added Pin To Net: NetName=MODE Pin=U1-4
+Added Pin To Net: NetName=DITHER Pin=U1-5
+Added Pin To Net: NetName=RT Pin=U1-6
+Added Pin To Net: NetName=SLOPE Pin=U1-7
+Added Pin To Net: NetName=SS Pin=U1-8
+Added Pin To Net: NetName=VC Pin=U1-9
+Added Pin To Net: NetName=GND Pin=U1-10
+Added Pin To Net: NetName=FB Pin=U1-11
+Added Pin To Net: NetName=VOUT_N Pin=U1-12
+Added Pin To Net: NetName=ISNS_F- Pin=U1-13
+Added Pin To Net: NetName=ISNS_F+ Pin=U1-14
+Added Pin To Net: NetName=CSN Pin=U1-15
+Added Pin To Net: NetName=CSP Pin=U1-16
+Added Pin To Net: NetName=PGOOD Pin=U1-17
+Added Pin To Net: NetName=SW2 Pin=U1-18
+Added Pin To Net: NetName=TG2 Pin=U1-19
+Added Pin To Net: NetName=BOOST2 Pin=U1-20
+Added Pin To Net: NetName=BG2 Pin=U1-21
+Added Pin To Net: NetName=GND Pin=U1-22
+Added Pin To Net: NetName=INTVCC Pin=U1-23
+Added Pin To Net: NetName=BIAS Pin=U1-24
+Added Pin To Net: NetName=BG1 Pin=U1-25
+Added Pin To Net: NetName=BOOST1 Pin=U1-26
+Added Pin To Net: NetName=TG1 Pin=U1-27
+Added Pin To Net: NetName=SW1 Pin=U1-28
+Added Pin To Net: NetName=BOOST1 Pin=U?-26
+Added Member To Class: ClassName=SM3320-BATT-EV Member=Component C? CL05A105KA5NQNC
+Added Member To Class: ClassName=SM3320-BATT-EV Member=Component C? CL05A105KA5NQNC
+Added Member To Class: ClassName=SM3320-BATT-EV Member=Component C? CL05B104KO5NNNC
+Added Member To Class: ClassName=SM3320-BATT-EV Member=Component C? 0402B102K500NT
+Added Member To Class: ClassName=SM3320-BATT-EV Member=Component R? 0402WGF4702TCE
+Added Member To Class: ClassName=SM3320-BATT-EV Member=Component R? 0402WGF1002TCE
+Added Member To Class: ClassName=SM3320-BATT-EV Member=Component U1 LM5176PWPR

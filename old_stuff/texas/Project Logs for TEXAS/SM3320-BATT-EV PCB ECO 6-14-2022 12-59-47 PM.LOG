@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=LDO33 Pin=C58-2
+Change Component DesignItemId : Designator=C58 Old DesignItemId=CL05A106MQ5NUNC New DesignItemId=CL05B104KO5NNNC
+Change Component Comment : Designator=C58 Old Comment=CL05A106MQ5NUNC New Comment=CL05B104KO5NNNC
+Change Component Description : Designator=C58 Old Description=C - CAPACITOR - MLCC - 10uF - 6.3V - 0402 New Description=C - CAPACITOR - MLCC - 100nF - 16V - 0402
+Change component parameters: Designator = "C58"; Footprint = "C_0402"; UniqueID = "\CMFUANGK"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C1525"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "WVDC"; Value = "16"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=BIAS Pin=C58-2
+Added Pin To Net: NetName=BIAS Pin=U?-24
+Added Net: Name=BIAS

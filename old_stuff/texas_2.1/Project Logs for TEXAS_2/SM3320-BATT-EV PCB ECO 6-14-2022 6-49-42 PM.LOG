@@ -1,0 +1,41 @@
+Added Component: Designator=U?(M28B_M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Solar Magic Website"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.solarmagic.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompType"; Value = "Driver"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "National Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "SOIC-28"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "M28B_N"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageTopMarking"; Value = "S13051"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "SM72295"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = "28"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Y"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=IIN Pin=U?-3
+Added Pin To Net: NetName=BIN Pin=U?-4
+Added Pin To Net: NetName=AGND Pin=U?-5
+Added Pin To Net: NetName=LIA Pin=U?-6
+Added Pin To Net: NetName=HIA Pin=U?-7
+Added Pin To Net: NetName=HIB Pin=U?-8
+Added Pin To Net: NetName=LIB Pin=U?-9
+Added Pin To Net: NetName=RST Pin=U?-10
+Added Pin To Net: NetName=BOUT Pin=U?-11
+Added Pin To Net: NetName=IOUT Pin=U?-12
+Added Pin To Net: NetName=OVS Pin=U?-16
+Added Pin To Net: NetName=+5VDC Pin=U?-17
+Added Pin To Net: NetName=TG2 Pin=U?-18
+Added Pin To Net: NetName=SW2 Pin=U?-19
+Added Pin To Net: NetName=BG2 Pin=U?-20
+Added Pin To Net: NetName=10VDC Pin=U?-21
+Added Pin To Net: NetName=BOOST2 Pin=U?-22
+Added Pin To Net: NetName=GND Pin=U?-23
+Added Pin To Net: NetName=BG1 Pin=U?-24
+Added Pin To Net: NetName=10VDC Pin=U?-25
+Added Pin To Net: NetName=TG1 Pin=U?-27
+Added Pin To Net: NetName=SW1 Pin=U?-28
+Added Member To Class: ClassName=SM3320-BATT-EV Member=Component C? CL05A105KA5NQNC
+Added Member To Class: ClassName=SM3320-BATT-EV Member=Component C? CL05A105KA5NQNC
+Added Member To Class: ClassName=SM3320-BATT-EV Member=Component C? CL05B104KO5NNNC
+Added Member To Class: ClassName=SM3320-BATT-EV Member=Component C? 0402B102K500NT
+Added Member To Class: ClassName=SM3320-BATT-EV Member=Component R? 0402WGF4702TCE
+Added Member To Class: ClassName=SM3320-BATT-EV Member=Component R? 0402WGF1002TCE
+Added Member To Class: ClassName=SM3320-BATT-EV Member=Component U? SM72295MAX

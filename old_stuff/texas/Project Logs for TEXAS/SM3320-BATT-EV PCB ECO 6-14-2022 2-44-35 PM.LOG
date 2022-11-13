@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=IMON_OUT Pin=U324-3
+Removed Pin From Net: NetName=+3V3 Pin=U324-4
+Removed Pin From Net: NetName=IMON_IN Pin=U324-5
+Removed Pin From Net: NetName=FBOUT Pin=U324-10
+Removed Pin From Net: NetName=GND Pin=U324-11
+Removed Pin From Net: NetName=FBIN Pin=U324-12
+Change Component Footprint: Designator=Cbias Old Footprint=C_0805 New Footprint=C_0603
+Change Component Footprint: Designator=U324 Old Footprint=SOIC-14-P1.27-W3.5 New Footprint=SOT-23-5
+Change Component Comment : Designator=U324 Old Comment=LM324 New Comment=AP2127K-3.3TRG1
+Change Component Description : Designator=U324 Old Description=U - IC - OP AMP (QUAD) New Description=U - IC - LDO 3.3V 300mA
+Change Component Library : Designator=U324 Old Library=* New Library=JLC_PCB.SchLib
+Change component parameters: Designator = "Ccomp"; Footprint = "C_0402"; UniqueID = "\OTQIPNHH"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C15195"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "WVDC"; Value = "50"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U324"; Footprint = "SOT-23-5"; UniqueID = "\IXMUGLEN"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "JLC Availability"; Value = "Extended"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C156285"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VOut"; Value = "3.3"; VariantName = "[No Variations]"

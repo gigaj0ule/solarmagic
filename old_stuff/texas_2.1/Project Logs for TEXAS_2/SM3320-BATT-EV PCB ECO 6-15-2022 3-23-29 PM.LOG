@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=NetD_CLAMP_17_2 Pin=D_CLAMP_17-2
+Added Pin To Net: NetName=NetD_CLAMP_17_2 Pin=D_CLAMP_18-1
+Added Pin To Net: NetName=GND Pin=D_CLAMP_18-2
+Added Member To Class: ClassName=SM3320-BATT-EV Member=Component D_CLAMP_17 ZMM5V6-M
+Added Member To Class: ClassName=SM3320-BATT-EV Member=Component D_CLAMP_18 ZMM5V6-M

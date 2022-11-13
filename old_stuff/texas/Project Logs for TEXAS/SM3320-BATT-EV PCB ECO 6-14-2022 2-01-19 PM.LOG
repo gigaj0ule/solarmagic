@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=VINSNS Pin=Rvisns-2
+Added Net: Name=VINSNS
+Added Pin To Net: NetName=VISNS Pin=U?-3
+Added Net: Name=VISNS

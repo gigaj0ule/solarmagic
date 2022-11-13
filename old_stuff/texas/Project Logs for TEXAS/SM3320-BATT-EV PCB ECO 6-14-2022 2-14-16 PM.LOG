@@ -1,0 +1,10 @@
+Change Component DesignItemId : Designator=CISNS Old DesignItemId=1206B105K101NT New DesignItemId=CL05A105KA5NQNC
+Change Component Footprint: Designator=CISNS Old Footprint=C_1206 New Footprint=C_0402
+Change Component Comment : Designator=CISNS Old Comment=1206B105K101NT New Comment=CL05A105KA5NQNC
+Change Component Description : Designator=CISNS Old Description=C - CAPACITOR - MLCC - 1uF - 100V - 1206 - X7R New Description=C - CAPACITOR - MLCC - 1uF - 25V - 0402
+Change component parameters: Designator = "CISNS"; Footprint = "C_0402"; UniqueID = "\TCMQISAB"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C52923"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "WVDC"; Value = "16"; VariantName = "[No Variations]"

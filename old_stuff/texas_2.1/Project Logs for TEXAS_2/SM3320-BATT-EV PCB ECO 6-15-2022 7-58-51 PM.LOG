@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=NetD_CLAMP_7_2 Pin=R160-2
+Change Net Name : Old Net Name=NetD_CLAMP_10_2 New Net Name=D10

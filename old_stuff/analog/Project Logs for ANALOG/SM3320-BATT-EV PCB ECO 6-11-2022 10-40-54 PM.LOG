@@ -1,0 +1,22 @@
+Added Component: Designator=C65(C_1206)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "Extended"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C91151"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "WVDC"; Value = "100"; VariantName = "[No Variations]"
+Added Component: Designator=RVCC(R_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C17168"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0R"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C65-1
+Added Pin To Net: NetName=EXTVCC Pin=RVCC-1
+Added Pin To Net: NetName=EXTVCC Pin=U-29
+Added Net: Name=EXTVCC
+Added Pin To Net: NetName=SYNC Pin=U-11
+Added Net: Name=SYNC
+Added Pin To Net: NetName=VOUT Pin=C65-2
+Added Pin To Net: NetName=VOUT Pin=RVCC-2
+Added Net: Name=VOUT
+Added Member To Class: ClassName=SM3320-BATT-EV Member=Component C65 1206B105K101NT
+Added Member To Class: ClassName=SM3320-BATT-EV Member=Component RVCC 0402WGF0000TCE

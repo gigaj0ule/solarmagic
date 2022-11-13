@@ -1,0 +1,10 @@
+Added Component: Designator=C59(C_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C52923"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "WVDC"; Value = "16"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C59-1
+Added Pin To Net: NetName=SS Pin=C59-2
+Added Net: Name=SS
+Added Member To Class: ClassName=SM3320-BATT-EV Member=Component C59 CL05A105KA5NQNC

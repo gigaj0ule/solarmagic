@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=BOOST1 Pin=U-23
+Added Net: Name=BOOST1
+Added Pin To Net: NetName=BOOST2 Pin=U-17
+Added Net: Name=BOOST2

@@ -1,0 +1,6 @@
+Added Pin To Net: NetName=VIN_N Pin=D13-1
+Added Pin To Net: NetName=VIN_N Pin=Q1-2
+Added Pin To Net: NetName=VIN_N Pin=R1-1
+Added Pin To Net: NetName=VIN_N Pin=U-32
+Change Net Name : Old Net Name=VIN_N New Net Name=CSNIN
+Added Member To Class: ClassName=SM3320-BATT-EV Member=Component C14 0402B102K500NT

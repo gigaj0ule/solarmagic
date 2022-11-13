@@ -1,0 +1,25 @@
+Removed Pin From Net: NetName=+5VDC Pin=U?-2
+Change Component DesignItemId : Designator=U? Old DesignItemId= New DesignItemId=TL7705ACD
+Change Component Comment : Designator=U? Old Comment=* New Comment=TL7705ACD
+Change Component Designator: OldDesignator=U? NewDesignator=Urst
+Change Component Library : Designator=Urst Old Library=* New Library=JLC_PCB.SchLib
+Added Component: Designator=Rrst(R_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C11702"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Added Component: Designator=SWrst(TS-1187A-C-C-B)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "Extended"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C318889"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5VDC Pin=Rrst-2
+Added Pin To Net: NetName=GND Pin=SWrst-2
+Added Pin To Net: NetName=GND Pin=SWrst-2
+Added Pin To Net: NetName=RESIN Pin=Rrst-1
+Added Pin To Net: NetName=RESIN Pin=SWrst-1
+Added Pin To Net: NetName=RESIN Pin=SWrst-1
+Added Pin To Net: NetName=RESIN Pin=Urst-2
+Added Net: Name=RESIN
+Added Member To Class: ClassName=SM3320-BATT-EV Member=Component Rrst 0402WGF1001TCE
+Added Member To Class: ClassName=SM3320-BATT-EV Member=Component SWrst TS-1187A-C-C-B
+Added Member To Class: ClassName=SM3320-BATT-EV Member=Component Urst TL7705ACD

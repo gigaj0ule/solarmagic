@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=INTVCC Pin=NT2-1
+Removed Pin From Net: NetName=GATEVCC Pin=NT2-2
+Removed Member From Class: ClassName=SM3320-BATT-EV Member=NT2
+Added Component: Designator=RINT(R_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C17168"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0R"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=INTVCC Pin=RINT-1
+Added Pin To Net: NetName=GATEVCC Pin=RINT-2
+Added Member To Class: ClassName=SM3320-BATT-EV Member=Component RINT 0402WGF0000TCE

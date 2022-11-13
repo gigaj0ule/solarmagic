@@ -1,0 +1,15 @@
+Added Component: Designator=U324(SOIC-14-P1.27-W3.5)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C71035"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Speed"; Value = "0.4V/us"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=IMON_IN Pin=U324-3
+Added Pin To Net: NetName=IMON_OUT Pin=U324-5
+Added Pin To Net: NetName=GND Pin=U324-11
+Added Pin To Net: NetName=IMON_IN_B Pin=U324-1
+Added Pin To Net: NetName=IMON_IN_B Pin=U324-2
+Added Net: Name=IMON_IN_B
+Added Pin To Net: NetName=IMON_OUT_B Pin=U324-6
+Added Pin To Net: NetName=IMON_OUT_B Pin=U324-7
+Added Net: Name=IMON_OUT_B
+Added Member To Class: ClassName=SM3320-BATT-EV Member=Component U324 LM324

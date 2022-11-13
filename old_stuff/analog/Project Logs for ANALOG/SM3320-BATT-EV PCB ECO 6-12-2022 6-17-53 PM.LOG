@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=SOL_1B Pin=J_IN-MINUS
+Removed Pin From Net: NetName=SOL_1A Pin=J_IN-PLUS
+Removed Member From Class: ClassName=SM3320-BATT-EV Member=J_IN

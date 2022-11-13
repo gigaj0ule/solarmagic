@@ -1,0 +1,9 @@
+Change Component DesignItemId : Designator=R27 Old DesignItemId=0603WAF100KT5E New DesignItemId=0402WGF1003TCE
+Change Component Footprint: Designator=R27 Old Footprint=R_0603 New Footprint=R_0402
+Change Component Comment : Designator=R27 Old Comment=0603WAF100KT5E New Comment=0402WGF1003TCE
+Change Component Description : Designator=R27 Old Description=R - RESISTOR - SMD - 100k - 1% -  0603 New Description=R - RESISTOR - SMD - 100k - 1% -  0402
+Change component parameters: Designator = "R27"; Footprint = "R_0402"; UniqueID = "\ALORFRMH"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C25741"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100k"; VariantName = "[No Variations]"

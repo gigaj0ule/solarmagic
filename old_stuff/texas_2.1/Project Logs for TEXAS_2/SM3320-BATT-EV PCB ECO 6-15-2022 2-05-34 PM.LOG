@@ -1,0 +1,16 @@
+Change Component DesignItemId : Designator=R21 Old DesignItemId=0402WGF100JTCE New DesignItemId=0402WGF470JTCE
+Change Component Comment : Designator=R21 Old Comment=0402WGF100JTCE New Comment=0402WGF470JTCE
+Change Component Description : Designator=R21 Old Description=R - RESISTOR - SMD - 10R - 1% - 0402 New Description=R - RESISTOR - SMD - 47R - 1% - 0402
+Change component parameters: Designator = "R21"; Footprint = "R_0402"; UniqueID = "\JCXFADGV"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C25118"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "47R"; VariantName = "[No Variations]"
+Added Component: Designator=Ragnd(R_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C17168"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0R"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=Ragnd-1
+Added Pin To Net: NetName=AGND Pin=Ragnd-2
+Added Member To Class: ClassName=SM3320-BATT-EV Member=Component Ragnd 0402WGF0000TCE

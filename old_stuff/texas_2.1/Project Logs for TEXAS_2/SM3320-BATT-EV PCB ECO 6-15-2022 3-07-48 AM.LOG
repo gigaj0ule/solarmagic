@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=GND Pin=Cf-1
+Removed Pin From Net: NetName=+10V Pin=Cvcc-2
+Removed Pin From Net: NetName=VIN_P Pin=Df-2
+Removed Member From Class: ClassName=SM3320-BATT-EV Member=Cf
+Removed Member From Class: ClassName=SM3320-BATT-EV Member=Df
+Removed Member From Class: ClassName=SM3320-BATT-EV Member=Rf
+Added Pin To Net: NetName=INTVCC Pin=Cvcc-2

@@ -1,0 +1,39 @@
+Added Component: Designator=Cref(C_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C1525"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "WVDC"; Value = "16"; VariantName = "[No Variations]"
+Added Component: Designator=Creset(C_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C52923"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "WVDC"; Value = "16"; VariantName = "[No Variations]"
+Added Component: Designator=U?(SOIC-8-P1.27-W3.5)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Extended"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C350569"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "TL7705ACP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOIC-8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/TL7705ACP/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/TL7705ACP/Texas%20Instruments/view-part/130871/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=Cref-1
+Added Pin To Net: NetName=GND Pin=Creset-1
+Added Pin To Net: NetName=+5VDC Pin=U?-2
+Added Pin To Net: NetName=GND Pin=U?-4
+Added Pin To Net: NetName=nRST Pin=U?-5
+Added Pin To Net: NetName=+5VDC Pin=U?-7
+Added Pin To Net: NetName=+5VDC Pin=U?-8
+Added Pin To Net: NetName=NetCref_2 Pin=Cref-2
+Added Pin To Net: NetName=NetCref_2 Pin=U?-1
+Added Net: Name=NetCref_2
+Added Pin To Net: NetName=NetCreset_2 Pin=Creset-2
+Added Pin To Net: NetName=NetCreset_2 Pin=U?-3
+Added Net: Name=NetCreset_2
+Added Member To Class: ClassName=SM3320-BATT-EV Member=Component Cref CL05B104KO5NNNC
+Added Member To Class: ClassName=SM3320-BATT-EV Member=Component Creset CL05A105KA5NQNC
+Added Member To Class: ClassName=SM3320-BATT-EV Member=Component U? SM72295MAX

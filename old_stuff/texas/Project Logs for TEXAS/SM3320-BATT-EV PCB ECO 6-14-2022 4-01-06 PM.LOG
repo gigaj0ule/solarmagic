@@ -1,0 +1,7 @@
+Added Component: Designator=C?(C_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C1531"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2.2nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "WVDC"; Value = "50"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=SM3320-BATT-EV Member=Component C? 0402B222K500NT

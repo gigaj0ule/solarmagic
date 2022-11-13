@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=VIN_N Pin=R13-2
+Removed Pin From Net: NetName=GND Pin=R20-2
+Removed Pin From Net: NetName=VOUT_P Pin=R51-2
+Removed Pin From Net: NetName=GND Pin=R53-2
+Removed Member From Class: ClassName=SM3320-BATT-EV Member=R20
+Removed Member From Class: ClassName=SM3320-BATT-EV Member=R51
+Added Pin To Net: NetName=FBIN Pin=C29-2
+Added Pin To Net: NetName=FBOUT Pin=C59-2
+Added Pin To Net: NetName=FBIN Pin=U8-15
+Added Pin To Net: NetName=FBOUT Pin=U8-17
+Change Net Name : Old Net Name=FBOUT New Net Name=AVOUT
+Added Member To Class: ClassName=SM3320-BATT-EV Member=Component C50 CL05B104KO5NNNC
+Added Member To Class: ClassName=SM3320-BATT-EV Member=Component C51 CL05B104KO5NNNC
+Added Member To Class: ClassName=SM3320-BATT-EV Member=Component C52 CL05B104KO5NNNC
+Added Member To Class: ClassName=SM3320-BATT-EV Member=Component R40 0402WGF1004TCE

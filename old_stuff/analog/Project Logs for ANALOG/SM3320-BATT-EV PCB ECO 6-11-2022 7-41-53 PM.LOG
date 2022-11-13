@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=VIN_N Pin=D13-1
+Removed Pin From Net: NetName=VIN_N Pin=Q1-2
+Removed Pin From Net: NetName=VIN_N Pin=R1-1
+Added Pin To Net: NetName=VIN_P Pin=U-33
+Added Pin To Net: NetName=CSNIN Pin=D13-1
+Added Pin To Net: NetName=CSNIN Pin=Q1-2
+Added Pin To Net: NetName=CSNIN Pin=R1-1
+Added Pin To Net: NetName=CSNIN Pin=U-32
+Added Net: Name=CSNIN

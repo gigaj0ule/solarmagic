@@ -1,0 +1,21 @@
+Change Component Designator: OldDesignator=C45 NewDesignator=C450
+Added Component: Designator=C45(C_CAN_1010)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ESR"; Value = "40mOhm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLC Availability"; Value = "Extended"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C164068"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "47uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "WVDC"; Value = "100"; VariantName = "[No Variations]"
+Added Component: Designator=C52(C_CAN_1010)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ESR"; Value = "40mOhm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLC Availability"; Value = "Extended"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C164068"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "47uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "WVDC"; Value = "100"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C45-1
+Added Pin To Net: NetName=VIN_P Pin=C45-2
+Added Pin To Net: NetName=GND Pin=C52-1
+Added Pin To Net: NetName=VIN_P Pin=C52-2
+Added Member To Class: ClassName=SM3320-BATT-EV Member=Component C52 VZH470M2ATR-1010
+Added Member To Class: ClassName=SM3320-BATT-EV Member=Component C450 1206B105K101NT

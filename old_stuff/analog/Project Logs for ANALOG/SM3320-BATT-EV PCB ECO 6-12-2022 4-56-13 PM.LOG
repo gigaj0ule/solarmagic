@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=VOUT_P Pin=D7-1
+Added Pin To Net: NetName=VOUT_P Pin=Q2-2
+Added Pin To Net: NetName=VOUT_P Pin=R10-1
+Added Pin To Net: NetName=VOUT_P Pin=U-31
+Change Net Name : Old Net Name=VOUT_P New Net Name=CSPOUT

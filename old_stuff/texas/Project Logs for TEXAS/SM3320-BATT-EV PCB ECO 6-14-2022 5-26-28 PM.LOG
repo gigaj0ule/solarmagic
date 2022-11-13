@@ -1,0 +1,25 @@
+Removed Pin From Net: NetName=GND Pin=C60-1
+Removed Pin From Net: NetName=IMON_IN Pin=C60-2
+Removed Pin From Net: NetName=GND Pin=C61-1
+Removed Pin From Net: NetName=IMON_OUT Pin=C61-2
+Removed Pin From Net: NetName=GND Pin=R48-1
+Removed Pin From Net: NetName=IMON_IN Pin=R48-2
+Removed Pin From Net: NetName=GND Pin=R49-1
+Removed Pin From Net: NetName=IMON_OUT Pin=R49-2
+Removed Member From Class: ClassName=SM3320-BATT-EV Member=C60
+Removed Member From Class: ClassName=SM3320-BATT-EV Member=C61
+Removed Member From Class: ClassName=SM3320-BATT-EV Member=R48
+Removed Member From Class: ClassName=SM3320-BATT-EV Member=R49
+Added Pin To Net: NetName=FBIN_B Pin=U324-13
+Added Pin To Net: NetName=FBIN_B Pin=U324-14
+Added Net: Name=FBIN_B
+Added Pin To Net: NetName=FBOUT_B Pin=U324-8
+Added Pin To Net: NetName=FBOUT_B Pin=U324-9
+Added Net: Name=FBOUT_B
+Added Pin To Net: NetName=IMON_IN_B Pin=U324-6
+Added Pin To Net: NetName=IMON_IN_B Pin=U324-7
+Added Net: Name=IMON_IN_B
+Added Pin To Net: NetName=IMON_OUT_B Pin=U324-1
+Added Pin To Net: NetName=IMON_OUT_B Pin=U324-2
+Added Net: Name=IMON_OUT_B
+Added Member To Class: ClassName=SM3320-BATT-EV Member=Component U324 LM324

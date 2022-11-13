@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=VIN_P Pin=Ron_c-1
+Removed Pin From Net: NetName=VIN_P Pin=Upsu-8
+Added Component: Designator=Rpsu1(R_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C17168"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0R"; VariantName = "[No Variations]"
+Added Component: Designator=Rpsu2(R_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C17168"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0R"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VIN_P Pin=Rpsu1-2
+Added Pin To Net: NetName=VOUT_N Pin=Rpsu2-2
+Added Pin To Net: NetName=NetRon_c_1 Pin=Ron_c-1
+Added Pin To Net: NetName=NetRon_c_1 Pin=Rpsu1-1
+Added Pin To Net: NetName=NetRon_c_1 Pin=Rpsu2-1
+Added Pin To Net: NetName=NetRon_c_1 Pin=Upsu-8
+Added Net: Name=NetRon_c_1
+Added Member To Class: ClassName=SM3320-BATT-EV Member=Component Rpsu1 0402WGF0000TCE
+Added Member To Class: ClassName=SM3320-BATT-EV Member=Component Rpsu2 0402WGF0000TCE

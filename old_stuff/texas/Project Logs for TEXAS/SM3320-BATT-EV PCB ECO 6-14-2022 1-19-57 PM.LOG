@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=GND Pin=C65-1
+Removed Pin From Net: NetName=VOUT_N Pin=C65-2
+Removed Pin From Net: NetName=VOUT_N Pin=RVCC-2
+Removed Member From Class: ClassName=SM3320-BATT-EV Member=C65
+Removed Member From Class: ClassName=SM3320-BATT-EV Member=RVCC
+Change Component DesignItemId : Designator=R12 Old DesignItemId=0402WGF1002TCE New DesignItemId=0402WGF1003TCE
+Change Component Comment : Designator=R12 Old Comment=0402WGF1002TCE New Comment=0402WGF1003TCE
+Change Component Description : Designator=R12 Old Description=R - RESISTOR - SMD - 10k - 1% - 0402 New Description=R - RESISTOR - SMD - 100k - 1% -  0402
+Change component parameters: Designator = "R12"; Footprint = "R_0402"; UniqueID = "\KWMPFJUW"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C25741"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100k"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=MODE Pin=U?-4

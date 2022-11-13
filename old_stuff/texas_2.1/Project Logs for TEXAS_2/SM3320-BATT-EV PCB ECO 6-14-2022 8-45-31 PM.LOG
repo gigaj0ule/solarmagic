@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=BOOST1 Pin=Dboot1-1
+Removed Pin From Net: NetName=GATEVCC_R Pin=Dboot1-2
+Removed Pin From Net: NetName=BOOST2 Pin=Dboot2-1
+Removed Pin From Net: NetName=GATEVCC_R Pin=Dboot2-2
+Removed Member From Class: ClassName=SM3320-BATT-EV Member=Dboot1
+Removed Member From Class: ClassName=SM3320-BATT-EV Member=Dboot2

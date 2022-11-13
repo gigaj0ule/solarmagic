@@ -1,0 +1,27 @@
+Change Component DesignItemId : Designator=U324 Old DesignItemId=AP2127K-3.3TRG1 New DesignItemId=LM324DT
+Change Component Footprint: Designator=U324 Old Footprint=SOT-23-5 New Footprint=SOIC-14-P1.27-W3.5
+Change Component Comment : Designator=U324 Old Comment=AP2127K-3.3TRG1 New Comment=LM324
+Change Component Description : Designator=U324 Old Description=U - IC - LDO 3.3V 300mA New Description=U - IC - OP AMP (QUAD)
+Change component parameters: Designator = "U324"; Footprint = "SOIC-14-P1.27-W3.5"; UniqueID = "\IXMUGLEN"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C71035"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Speed"; Value = "0.4V/us"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=IMON_OUT Pin=U324-3
+Added Pin To Net: NetName=+3V3 Pin=U324-4
+Added Pin To Net: NetName=IMON_IN Pin=U324-5
+Added Pin To Net: NetName=FBOUT Pin=U324-10
+Added Pin To Net: NetName=GND Pin=U324-11
+Added Pin To Net: NetName=FBIN Pin=U324-12
+Added Pin To Net: NetName=FBIN_B Pin=U324-13
+Added Pin To Net: NetName=FBIN_B Pin=U324-14
+Added Net: Name=FBIN_B
+Added Pin To Net: NetName=FBOUT_B Pin=U324-8
+Added Pin To Net: NetName=FBOUT_B Pin=U324-9
+Added Net: Name=FBOUT_B
+Added Pin To Net: NetName=IMON_IN_B Pin=U324-6
+Added Pin To Net: NetName=IMON_IN_B Pin=U324-7
+Added Net: Name=IMON_IN_B
+Added Pin To Net: NetName=IMON_OUT_B Pin=U324-1
+Added Pin To Net: NetName=IMON_OUT_B Pin=U324-2
+Added Net: Name=IMON_OUT_B

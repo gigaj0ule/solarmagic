@@ -1,0 +1,12 @@
+Added Component: Designator=R27(R_0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C22936"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100k"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=LDO33 Pin=R27-2
+Added Pin To Net: NetName=SWEN Pin=R27-1
+Added Pin To Net: NetName=SWEN Pin=U-36
+Added Net: Name=SWEN
+Added Member To Class: ClassName=SM3320-BATT-EV Member=Component R11 0603WAF100KT5E
+Added Member To Class: ClassName=SM3320-BATT-EV Member=Component R14 0402WGF2202TCE
+Added Member To Class: ClassName=SM3320-BATT-EV Member=Component R27 0603WAF100KT5E

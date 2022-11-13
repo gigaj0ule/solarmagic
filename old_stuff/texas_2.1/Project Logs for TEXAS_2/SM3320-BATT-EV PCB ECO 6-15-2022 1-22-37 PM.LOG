@@ -1,0 +1,14 @@
+Removed Member From Class: ClassName=SM3320-BATT-EV Member=Ron_b
+Change Component DesignItemId : Designator=Ron_a Old DesignItemId=0402WGF1003TCE New DesignItemId=0402WGF2003TCE
+Change Component Comment : Designator=Ron_a Old Comment=0402WGF1003TCE New Comment=0402WGF2003TCE
+Change Component Designator: OldDesignator=Ron_a NewDesignator=Ron
+Change Component Description : Designator=Ron Old Description=R - RESISTOR - SMD - 100k - 1% -  0402 New Description=R - RESISTOR - SMD - 200k - 1% - 0402
+Change component parameters: Designator = "Ron"; Footprint = "R_0402"; UniqueID = "\MFKVUEVH"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C25764"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "200k"; VariantName = "[No Variations]"
+Change Net Name : Old Net Name=NetRon_a_2 New Net Name=NetRon_2
+Added Pin To Net: NetName=NetRon_1 Pin=Ron-1
+Added Pin To Net: NetName=NetRon_1 Pin=Ron_c-2
+Added Net: Name=NetRon_1

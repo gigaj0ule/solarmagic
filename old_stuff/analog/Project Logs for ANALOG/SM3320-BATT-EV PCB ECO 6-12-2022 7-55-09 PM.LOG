@@ -1,0 +1,3 @@
+Removed Member From Class: ClassName=SM3320-BATT-EV Member=D_CLAMP_17
+Removed Member From Class: ClassName=SM3320-BATT-EV Member=D_CLAMP_18
+Added Pin To Net: NetName=GND Pin=D_CLAMP_16-2

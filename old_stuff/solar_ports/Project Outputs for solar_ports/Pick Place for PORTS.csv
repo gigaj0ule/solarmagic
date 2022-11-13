@@ -1,0 +1,15 @@
+Altium Designer Pick and Place Locations
+C:\git\solarmagic\solar_ports\Project Outputs for solar_ports\Pick Place for PORTS.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       24/08/22
+Time:       21:06
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+"Designator","Comment","Layer","Footprint","Center-X(mm)","Center-Y(mm)","Rotation","Description","Ref-X(mm)","Ref-Y(mm)","Pad-X(mm)","Pad-Y(mm)","JLC Availability","LCSC Part #"
+"J1B","2-406549-1","TopLayer","TE_2-406549-1","222.4203","22.0350","0","J - JACK - ETHERNET - Right - THT","226.0003","20.0000","226.0003","20.0000","Extended","C125068"
+"J1A","2-406549-1","TopLayer","TE_2-406549-1","71.4203","22.0350","0","J - JACK - ETHERNET - Right - THT","75.0003","20.0000","75.0003","20.0000","Extended","C125068"

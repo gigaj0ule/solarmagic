@@ -1,0 +1,21 @@
+Added Component: Designator=C46(C_1206)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "Extended"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C91151"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "WVDC"; Value = "100"; VariantName = "[No Variations]"
+Added Component: Designator=RVIN(R_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C17168"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0R"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C46-1
+Added Pin To Net: NetName=VIN_P Pin=C46-2
+Added Pin To Net: NetName=VIN_P Pin=RVIN-2
+Added Pin To Net: NetName=GND Pin=U-13
+Added Pin To Net: NetName=GND Pin=U-39
+Added Pin To Net: NetName=VIN Pin=RVIN-1
+Added Pin To Net: NetName=VIN Pin=U-34
+Added Net: Name=VIN
+Added Member To Class: ClassName=SM3320-BATT-EV Member=Component C46 1206B105K101NT
+Added Member To Class: ClassName=SM3320-BATT-EV Member=Component RVIN 0402WGF0000TCE

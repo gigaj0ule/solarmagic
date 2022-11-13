@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=PGOOD Pin=Rpgood-2
+Added Pin To Net: NetName=INTVCC Pin=Rpgood-2

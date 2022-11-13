@@ -1,0 +1,10 @@
+Change Component DesignItemId : Designator=Cf Old DesignItemId=1206B105K101NT New DesignItemId=CC0603KRX7R9BB104
+Change Component Footprint: Designator=Cf Old Footprint=C_1206 New Footprint=C_0603
+Change Component Comment : Designator=Cf Old Comment=1206B105K101NT New Comment=CC0603KRX7R9BB104
+Change Component Description : Designator=Cf Old Description=C - CAPACITOR - MLCC - 1uF - 100V - 1206 - X7R New Description=C - CAPACITOR - MLCC - 100nF - 50V - 0603
+Change component parameters: Designator = "Cf"; Footprint = "C_0603"; UniqueID = "\OKYCUQEO"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C14663"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "WVDC"; Value = "50"; VariantName = "[No Variations]"

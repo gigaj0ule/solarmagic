@@ -1,0 +1,34 @@
+Change Component DesignItemId : Designator=Riin Old DesignItemId=0402WGF4702TCE New DesignItemId=0402WGF5602TCE
+Change Component DesignItemId : Designator=Riout Old DesignItemId=0402WGF4702TCE New DesignItemId=0402WGF5602TCE
+Change Component DesignItemId : Designator=C37 Old DesignItemId=CL05B103KB5NNNC New DesignItemId=CL05B104KO5NNNC
+Change Component DesignItemId : Designator=C39 Old DesignItemId=CL05B103KB5NNNC New DesignItemId=CL05B104KO5NNNC
+Change Component Comment : Designator=Riin Old Comment=0402WGF4702TCE New Comment=0402WGF5602TCE
+Change Component Comment : Designator=Riout Old Comment=0402WGF4702TCE New Comment=0402WGF5602TCE
+Change Component Comment : Designator=C37 Old Comment=CL05B103KB5NNNC New Comment=CL05B104KO5NNNC
+Change Component Comment : Designator=C39 Old Comment=CL05B103KB5NNNC New Comment=CL05B104KO5NNNC
+Change Component Description : Designator=C37 Old Description=C - CAPACITOR - MLCC - 10nF - 50V - 0402 New Description=C - CAPACITOR - MLCC - 100nF - 16V - 0402
+Change Component Description : Designator=C39 Old Description=C - CAPACITOR - MLCC - 10nF - 50V - 0402 New Description=C - CAPACITOR - MLCC - 100nF - 16V - 0402
+Change Component Description : Designator=Riin Old Description=R - RESISTOR - SMD - 47k - 1% - 0402 New Description=R - RESISTOR - SMD - 56k - 1% - 0402
+Change Component Description : Designator=Riout Old Description=R - RESISTOR - SMD - 47k - 1% - 0402 New Description=R - RESISTOR - SMD - 56k - 1% - 0402
+Change component parameters: Designator = "Riin"; Footprint = "R_0402"; UniqueID = "\WSCFVHLS"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C25796"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "56k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Riout"; Footprint = "R_0402"; UniqueID = "\PNSWSAUC"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C25796"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "56k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C37"; Footprint = "C_0402"; UniqueID = "\XHOAHNBX"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C1525"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "WVDC"; Value = "16"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C39"; Footprint = "C_0402"; UniqueID = "\VSHRIBKE"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C1525"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "WVDC"; Value = "16"; VariantName = "[No Variations]"

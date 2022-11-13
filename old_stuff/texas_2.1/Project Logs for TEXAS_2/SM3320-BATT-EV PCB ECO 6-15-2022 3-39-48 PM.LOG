@@ -1,0 +1,32 @@
+Change Component DesignItemId : Designator=Q1 Old DesignItemId=IRF9540NSTRLPBF New DesignItemId=FDB33N25TM
+Change Component DesignItemId : Designator=Q2 Old DesignItemId=IRF9540NSTRLPBF New DesignItemId=FDB33N25TM
+Change Component DesignItemId : Designator=Q3 Old DesignItemId=IRF9540NSTRLPBF New DesignItemId=FDB33N25TM
+Change Component DesignItemId : Designator=Q4 Old DesignItemId=IRF9540NSTRLPBF New DesignItemId=FDB33N25TM
+Change Component Comment : Designator=Q1 Old Comment=IRF9540NSTRLPBF New Comment=FDB33N25TM
+Change Component Comment : Designator=Q2 Old Comment=IRF9540NSTRLPBF New Comment=FDB33N25TM
+Change Component Comment : Designator=Q3 Old Comment=IRF9540NSTRLPBF New Comment=FDB33N25TM
+Change Component Comment : Designator=Q4 Old Comment=IRF9540NSTRLPBF New Comment=FDB33N25TM
+Change component parameters: Designator = "Q1"; Footprint = "TO-263-3"; UniqueID = "\LEUMUDBT"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "JLC Availability"; Value = "Extended"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C241752"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "WVDC"; Value = "250"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q2"; Footprint = "TO-263-3"; UniqueID = "\LHEKBDJF"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "JLC Availability"; Value = "Extended"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C241752"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "WVDC"; Value = "250"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q3"; Footprint = "TO-263-3"; UniqueID = "\GORSVKSA"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "JLC Availability"; Value = "Extended"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C241752"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "WVDC"; Value = "250"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q4"; Footprint = "TO-263-3"; UniqueID = "\DQSGQVUJ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "JLC Availability"; Value = "Extended"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C241752"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "WVDC"; Value = "250"; VariantName = "[No Variations]"
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=0.762mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=0.762mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=0.762mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=0.762mm

@@ -1,0 +1,7 @@
+Added Component: Designator=Jout(XT60PW_M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "X"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=Jout-MINUS
+Added Pin To Net: NetName=VOUT_N Pin=Jout-PLUS
+Added Member To Class: ClassName=SM3320-BATT-EV Member=Component Jout XT60PW_M

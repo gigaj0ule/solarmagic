@@ -1,0 +1,6 @@
+Change Component Designator: OldDesignator=R11 NewDesignator=Ruvt
+Change Component Designator: OldDesignator=R14 NewDesignator=Ruvb
+Added Pin To Net: NetName=EN Pin=Ruvb-2
+Added Pin To Net: NetName=EN Pin=Ruvt-1
+Added Pin To Net: NetName=EN Pin=U?-1
+Added Net: Name=EN

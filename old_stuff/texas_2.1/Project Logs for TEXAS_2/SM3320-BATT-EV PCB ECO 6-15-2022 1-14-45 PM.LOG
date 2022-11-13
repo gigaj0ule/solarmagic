@@ -1,0 +1,114 @@
+Change Component Comment : Designator=Rpsus2 Old Comment=0402WGF1000TCE New Comment=0402WGF1002TCE
+Change component parameters: Designator = "Rpsus2"; Footprint = "R_0402"; UniqueID = "\ABQYUWRS"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C25744"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=Dpsu(DO-213AA)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "BASIC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C8062"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C12v1-2
+Added Pin To Net: NetName=GND Pin=C12v2-2
+Added Pin To Net: NetName=GND Pin=C12v3-2
+Added Pin To Net: NetName=GND Pin=C12v4-2
+Added Pin To Net: NetName=GND Pin=C12v5-2
+Added Pin To Net: NetName=GND Pin=C12v6-2
+Added Pin To Net: NetName=GND Pin=C12v7-2
+Added Pin To Net: NetName=GND Pin=C12v8-2
+Added Pin To Net: NetName=GND Pin=C201-2
+Added Pin To Net: NetName=GND Pin=D200-2
+Added Pin To Net: NetName=GND Pin=Qpsu2-2
+Added Pin To Net: NetName=GND Pin=Rcl2-1
+Added Pin To Net: NetName=GND Pin=Rpsufb2-1
+Added Pin To Net: NetName=GND Pin=Rpsus2-2
+Added Pin To Net: NetName=GND Pin=Upsu-4
+Added Pin To Net: NetName=+12V Pin=C12v1-1
+Added Pin To Net: NetName=+12V Pin=C12v2-1
+Added Pin To Net: NetName=+12V Pin=C12v3-1
+Added Pin To Net: NetName=+12V Pin=C12v4-1
+Added Pin To Net: NetName=+12V Pin=C12v5-1
+Added Pin To Net: NetName=+12V Pin=C12v6-1
+Added Pin To Net: NetName=+12V Pin=C12v7-1
+Added Pin To Net: NetName=+12V Pin=C12v8-1
+Added Pin To Net: NetName=+12V Pin=Ccmp-2
+Added Pin To Net: NetName=+12V Pin=L200-2
+Added Pin To Net: NetName=+12V Pin=Rpsufb1-1
+Added Net: Name=+12V
+Added Pin To Net: NetName=CELL12 Pin=Dpsu-1
+Added Pin To Net: NetName=CELL12 Pin=Qpsu-2
+Added Pin To Net: NetName=CELL12 Pin=Rpsus-1
+Added Net: Name=CELL12
+Added Pin To Net: NetName=NetC201_1 Pin=C201-1
+Added Pin To Net: NetName=NetC201_1 Pin=Upsu-7
+Added Net: Name=NetC201_1
+Added Pin To Net: NetName=NetCbst_1 Pin=Cbst-1
+Added Pin To Net: NetName=NetCbst_1 Pin=Upsu-2
+Added Net: Name=NetCbst_1
+Added Pin To Net: NetName=NetCbst_2 Pin=Cbst-2
+Added Pin To Net: NetName=NetCbst_2 Pin=D200-1
+Added Pin To Net: NetName=NetCbst_2 Pin=L200-1
+Added Pin To Net: NetName=NetCbst_2 Pin=Upsu-1
+Added Net: Name=NetCbst_2
+Added Pin To Net: NetName=NetCcmp_1 Pin=Ccmp-1
+Added Pin To Net: NetName=NetCcmp_1 Pin=Rpsufb1-2
+Added Pin To Net: NetName=NetCcmp_1 Pin=Rpsufb2-2
+Added Pin To Net: NetName=NetCcmp_1 Pin=Upsu-5
+Added Net: Name=NetCcmp_1
+Added Pin To Net: NetName=NetDpsu_2 Pin=Dpsu-2
+Added Pin To Net: NetName=NetDpsu_2 Pin=Qpsu-1
+Added Pin To Net: NetName=NetDpsu_2 Pin=Rpsug-1
+Added Pin To Net: NetName=NetDpsu_2 Pin=Rpsus-2
+Added Net: Name=NetDpsu_2
+Added Pin To Net: NetName=NetQpsu_3 Pin=Qpsu-3
+Added Pin To Net: NetName=NetQpsu_3 Pin=Ron_c-1
+Added Pin To Net: NetName=NetQpsu_3 Pin=Upsu-8
+Added Net: Name=NetQpsu_3
+Added Pin To Net: NetName=NetRcl1_1 Pin=Rcl1-1
+Added Pin To Net: NetName=NetRcl1_1 Pin=Rcl2-2
+Added Net: Name=NetRcl1_1
+Added Pin To Net: NetName=NetRcl1_2 Pin=Rcl1-2
+Added Pin To Net: NetName=NetRcl1_2 Pin=Upsu-3
+Added Net: Name=NetRcl1_2
+Added Pin To Net: NetName=NetRon_a_1 Pin=Ron_a-1
+Added Pin To Net: NetName=NetRon_a_1 Pin=Ron_b-2
+Added Net: Name=NetRon_a_1
+Added Pin To Net: NetName=NetRon_a_2 Pin=Ron_a-2
+Added Pin To Net: NetName=NetRon_a_2 Pin=Upsu-6
+Added Net: Name=NetRon_a_2
+Added Pin To Net: NetName=NetRon_b_1 Pin=Ron_b-1
+Added Pin To Net: NetName=NetRon_b_1 Pin=Ron_c-2
+Added Net: Name=NetRon_b_1
+Added Pin To Net: NetName=PFET Pin=Qpsu2-3
+Added Pin To Net: NetName=PFET Pin=Rpsug-2
+Added Net: Name=PFET
+Added Pin To Net: NetName=WAKEUP_R Pin=Qpsu2-1
+Added Pin To Net: NetName=WAKEUP_R Pin=Rpsus2-1
+Added Net: Name=WAKEUP_R
+Added Member To Class: ClassName=SM3320-BATT-EV Member=Component C12v1 CL05A105KA5NQNC
+Added Member To Class: ClassName=SM3320-BATT-EV Member=Component C12v2 CL05A105KA5NQNC
+Added Member To Class: ClassName=SM3320-BATT-EV Member=Component C12v3 CL05A105KA5NQNC
+Added Member To Class: ClassName=SM3320-BATT-EV Member=Component C12v4 CL05A105KA5NQNC
+Added Member To Class: ClassName=SM3320-BATT-EV Member=Component C12v5 CL05A105KA5NQNC
+Added Member To Class: ClassName=SM3320-BATT-EV Member=Component C12v6 CL05A105KA5NQNC
+Added Member To Class: ClassName=SM3320-BATT-EV Member=Component C12v7 CL05A105KA5NQNC
+Added Member To Class: ClassName=SM3320-BATT-EV Member=Component C12v8 CL05A105KA5NQNC
+Added Member To Class: ClassName=SM3320-BATT-EV Member=Component C201 CL05A105KA5NQNC
+Added Member To Class: ClassName=SM3320-BATT-EV Member=Component Cbst CL05B103KB5NNNC
+Added Member To Class: ClassName=SM3320-BATT-EV Member=Component Ccmp CL05B332KB5NNNC
+Added Member To Class: ClassName=SM3320-BATT-EV Member=Component D200 SS210
+Added Member To Class: ClassName=SM3320-BATT-EV Member=Component Dpsu ZMM5V6-M
+Added Member To Class: ClassName=SM3320-BATT-EV Member=Component L200 SWRB1207S-221MT
+Added Member To Class: ClassName=SM3320-BATT-EV Member=Component Qpsu2 2N7002
+Added Member To Class: ClassName=SM3320-BATT-EV Member=Component Qpsu HSS0127
+Added Member To Class: ClassName=SM3320-BATT-EV Member=Component Rcl1 0402WGF3302TCE
+Added Member To Class: ClassName=SM3320-BATT-EV Member=Component Rcl2 0402WGF1003TCE
+Added Member To Class: ClassName=SM3320-BATT-EV Member=Component Ron_a 0402WGF1003TCE
+Added Member To Class: ClassName=SM3320-BATT-EV Member=Component Ron_b 0402WGF1003TCE
+Added Member To Class: ClassName=SM3320-BATT-EV Member=Component Ron_c 0402WGF4702TCE
+Added Member To Class: ClassName=SM3320-BATT-EV Member=Component Rpsufb1 0402WGF1502TCE
+Added Member To Class: ClassName=SM3320-BATT-EV Member=Component Rpsufb2 0402WGF3901TCE
+Added Member To Class: ClassName=SM3320-BATT-EV Member=Component Rpsug 0402WGF2202TCE
+Added Member To Class: ClassName=SM3320-BATT-EV Member=Component Rpsus2 0402WGF1002TCE
+Added Member To Class: ClassName=SM3320-BATT-EV Member=Component Rpsus 0402WGF1002TCE
+Added Member To Class: ClassName=SM3320-BATT-EV Member=Component Upsu LM5008MMX/NOPB

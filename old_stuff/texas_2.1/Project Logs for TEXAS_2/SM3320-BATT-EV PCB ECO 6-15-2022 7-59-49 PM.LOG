@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=NetD_CLAMP_9_2 Pin=R160-1
+Added Pin To Net: NetName=D8 Pin=D_CLAMP_8-2
+Added Pin To Net: NetName=D8 Pin=D_CLAMP_9-1
+Added Pin To Net: NetName=D8 Pin=R160-1
+Added Net: Name=D8

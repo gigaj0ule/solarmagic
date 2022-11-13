@@ -1,0 +1,31 @@
+Removed Pin From Net: NetName=ISNS- Pin=U?-13
+Removed Pin From Net: NetName=ISNS+ Pin=U?-14
+Added Component: Designator=CISNS(C_1206)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "Extended"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C91151"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "WVDC"; Value = "100"; VariantName = "[No Variations]"
+Added Component: Designator=Risns+(R_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C25077"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10R"; VariantName = "[No Variations]"
+Added Component: Designator=Risns-(R_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C25077"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10R"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=ISNS+ Pin=Risns+-2
+Added Pin To Net: NetName=ISNS- Pin=Risns--2
+Added Pin To Net: NetName=ISNS_F+ Pin=CISNS-2
+Added Pin To Net: NetName=ISNS_F+ Pin=Risns+-1
+Added Pin To Net: NetName=ISNS_F+ Pin=U?-14
+Added Net: Name=ISNS_F+
+Added Pin To Net: NetName=ISNS_F- Pin=CISNS-1
+Added Pin To Net: NetName=ISNS_F- Pin=Risns--1
+Added Pin To Net: NetName=ISNS_F- Pin=U?-13
+Added Net: Name=ISNS_F-
+Added Member To Class: ClassName=SM3320-BATT-EV Member=Component CISNS 1206B105K101NT
+Added Member To Class: ClassName=SM3320-BATT-EV Member=Component Risns+ 0402WGF100JTCE
+Added Member To Class: ClassName=SM3320-BATT-EV Member=Component Risns- 0402WGF100JTCE

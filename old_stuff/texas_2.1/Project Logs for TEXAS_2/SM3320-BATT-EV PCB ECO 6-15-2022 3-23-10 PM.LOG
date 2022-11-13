@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=NetD_CLAMP_16_2 Pin=D_CLAMP_17-1
+Added Member To Class: ClassName=SM3320-BATT-EV Member=Component D_CLAMP_16 ZMM5V6-M

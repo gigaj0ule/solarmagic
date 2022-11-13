@@ -1,0 +1,16 @@
+Change Component DesignItemId : Designator=Rbin Old DesignItemId=0402WGF1000TCE New DesignItemId=0402WGF100JTCE
+Change Component DesignItemId : Designator=Rbout Old DesignItemId=0402WGF1000TCE New DesignItemId=0402WGF100JTCE
+Change Component Comment : Designator=Rbin Old Comment=0402WGF1000TCE New Comment=0402WGF100JTCE
+Change Component Comment : Designator=Rbout Old Comment=0402WGF1000TCE New Comment=0402WGF100JTCE
+Change Component Description : Designator=Rbin Old Description=R - RESISTOR - SMD - 100R - 1% - 0402 New Description=R - RESISTOR - SMD - 10R - 1% - 0402
+Change Component Description : Designator=Rbout Old Description=R - RESISTOR - SMD - 100R - 1% - 0402 New Description=R - RESISTOR - SMD - 10R - 1% - 0402
+Change component parameters: Designator = "Rbin"; Footprint = "R_0402"; UniqueID = "\LSXXCXOA"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C25077"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Rbout"; Footprint = "R_0402"; UniqueID = "\LEDWWMAV"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C25077"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10R"; VariantName = "[No Variations]"

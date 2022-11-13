@@ -1,0 +1,80 @@
+Added Component: Designator=Csu1(C_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C1523"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "WVDC"; Value = "50"; VariantName = "[No Variations]"
+Added Component: Designator=Csu2(C_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C1523"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "WVDC"; Value = "50"; VariantName = "[No Variations]"
+Added Component: Designator=Dsu1(SOD-323)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "If"; Value = "1A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C191023"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PIV"; Value = "40V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Trr"; Value = "4ns"; VariantName = "[No Variations]"
+Added Component: Designator=Dsu2(SOD-323)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "If"; Value = "1A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C191023"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PIV"; Value = "40V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Trr"; Value = "4ns"; VariantName = "[No Variations]"
+Added Component: Designator=Qsu(TO-236AB)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C20526"; VariantName = "[No Variations]"
+Added Component: Designator=Rsu1(R_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C25741"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100k"; VariantName = "[No Variations]"
+Added Component: Designator=Rsu2(R_0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C22965"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "270k"; VariantName = "[No Variations]"
+Added Component: Designator=Rsu3(R_0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C22965"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "270k"; VariantName = "[No Variations]"
+Added Component: Designator=Rsu4(R_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C25778"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "330K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=Csu1-1
+Added Pin To Net: NetName=GND Pin=Csu2-1
+Added Pin To Net: NetName=BIN Pin=Csu2-2
+Added Pin To Net: NetName=HIB Pin=Dsu1-2
+Added Pin To Net: NetName=FBIN Pin=Dsu2-1
+Added Pin To Net: NetName=BIN Pin=Qsu-2
+Added Pin To Net: NetName=+5VDC Pin=Qsu-3
+Added Pin To Net: NetName=GND Pin=Rsu1-1
+Added Pin To Net: NetName=BIN Pin=Rsu1-2
+Added Pin To Net: NetName=HIA Pin=Rsu2-2
+Added Pin To Net: NetName=HIB Pin=Rsu3-2
+Added Pin To Net: NetName=+5VDC Pin=Rsu4-2
+Added Pin To Net: NetName=BST_SIM Pin=Dsu1-1
+Added Pin To Net: NetName=BST_SIM Pin=Dsu2-2
+Added Net: Name=BST_SIM
+Added Pin To Net: NetName=NetCsu1_2 Pin=Csu1-2
+Added Pin To Net: NetName=NetCsu1_2 Pin=Qsu-1
+Added Pin To Net: NetName=NetCsu1_2 Pin=Rsu2-1
+Added Pin To Net: NetName=NetCsu1_2 Pin=Rsu3-1
+Added Pin To Net: NetName=NetCsu1_2 Pin=Rsu4-1
+Added Net: Name=NetCsu1_2
+Added Member To Class: ClassName=SM3320-BATT-EV Member=Component Csu1 0402B102K500NT
+Added Member To Class: ClassName=SM3320-BATT-EV Member=Component Csu2 0402B102K500NT
+Added Member To Class: ClassName=SM3320-BATT-EV Member=Component Dsu1 1N5819WS
+Added Member To Class: ClassName=SM3320-BATT-EV Member=Component Dsu2 1N5819WS
+Added Member To Class: ClassName=SM3320-BATT-EV Member=Component Qsu MMBT3904
+Added Member To Class: ClassName=SM3320-BATT-EV Member=Component Rsu1 0402WGF1003TCE
+Added Member To Class: ClassName=SM3320-BATT-EV Member=Component Rsu2 0603WAF2703T5E
+Added Member To Class: ClassName=SM3320-BATT-EV Member=Component Rsu3 0603WAF2703T5E
+Added Member To Class: ClassName=SM3320-BATT-EV Member=Component Rsu4 0402WGF3303TCE

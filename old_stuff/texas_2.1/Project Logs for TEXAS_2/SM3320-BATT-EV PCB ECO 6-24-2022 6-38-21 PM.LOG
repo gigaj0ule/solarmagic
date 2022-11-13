@@ -1,0 +1,10 @@
+Added Component: Designator=Cpsu1(C_1206)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "Extended"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C91151"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "WVDC"; Value = "100"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=Cpsu1-1
+Added Pin To Net: NetName=NetRon_c_1 Pin=Cpsu1-2
+Change Net Name : Old Net Name=NetRon_c_1 New Net Name=NetCpsu1_2
+Added Member To Class: ClassName=SM3320-BATT-EV Member=Component Cpsu1 1206B105K101NT

@@ -1,0 +1,13 @@
+Change Component DesignItemId : Designator=Rvisns Old DesignItemId=0402WGF0000TCE New DesignItemId=0402WGF5602TCE
+Change Component Comment : Designator=Rvisns Old Comment=0402WGF0000TCE New Comment=0402WGF5602TCE
+Change Component Designator: OldDesignator=R16 NewDesignator=Rvoutb
+Change Component Designator: OldDesignator=R54 NewDesignator=Rvinb
+Change Component Designator: OldDesignator=R58 NewDesignator=Rvint
+Change Component Designator: OldDesignator=R213 NewDesignator=Rvoutt
+Change Component Designator: OldDesignator=Rvisns NewDesignator=Rpm
+Change Component Description : Designator=Rpm Old Description=R - RESISTOR - SMD - 0R - 1% - 0402 New Description=R - RESISTOR - SMD - 56k - 1% - 0402
+Change component parameters: Designator = "Rpm"; Footprint = "R_0402"; UniqueID = "\OIANHFEW"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C25796"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "56k"; VariantName = "[No Variations]"

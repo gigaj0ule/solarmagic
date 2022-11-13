@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=VIN_P Pin=Dpsu2-1
+Removed Pin From Net: NetName=GND Pin=Qpsu2-2
+Removed Pin From Net: NetName=VIN_P Pin=Qpsu-2
+Removed Pin From Net: NetName=GND Pin=Rpsus2-2
+Removed Pin From Net: NetName=VIN_P Pin=Rpsus-1
+Removed Member From Class: ClassName=SM3320-BATT-EV Member=Dpsu2
+Removed Member From Class: ClassName=SM3320-BATT-EV Member=Qpsu2
+Removed Member From Class: ClassName=SM3320-BATT-EV Member=Qpsu
+Removed Member From Class: ClassName=SM3320-BATT-EV Member=Rpsug
+Removed Member From Class: ClassName=SM3320-BATT-EV Member=Rpsus2
+Removed Member From Class: ClassName=SM3320-BATT-EV Member=Rpsus
+Added Pin To Net: NetName=VIN_P Pin=Ron_c-1
+Added Pin To Net: NetName=VIN_P Pin=Upsu-8

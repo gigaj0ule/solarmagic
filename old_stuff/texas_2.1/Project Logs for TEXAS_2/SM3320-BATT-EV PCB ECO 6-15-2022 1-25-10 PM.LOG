@@ -1,0 +1,23 @@
+Change Component DesignItemId : Designator=Rpsufb1 Old DesignItemId=0402WGF1502TCE New DesignItemId=0402WGF1002TCE
+Change Component DesignItemId : Designator=Rpsufb2 Old DesignItemId=0402WGF3901TCE New DesignItemId=0402WGF3301TCE
+Change Component Comment : Designator=Rpsufb1 Old Comment=0402WGF1502TCE New Comment=0402WGF1002TCE
+Change Component Comment : Designator=Rpsufb2 Old Comment=0402WGF3901TCE New Comment=0402WGF3301TCE
+Change Component Description : Designator=Rpsufb2 Old Description=R - RESISTOR - SMD - 3.9k - 1% - 0402 New Description=R - RESISTOR - SMD - 3.3k - 1% - 0402
+Change Component Description : Designator=Rpsufb1 Old Description=R - RESISTOR - SMD - 15k - 1% - 0402 New Description=R - RESISTOR - SMD - 10k - 1% - 0402
+Change component parameters: Designator = "Rpsufb1"; Footprint = "R_0402"; UniqueID = "\SSKVBCMO"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C25744"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Rpsufb2"; Footprint = "R_0402"; UniqueID = "\KUNWYFCX"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C25890"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "3.3k"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+12V Pin=C5v1-2
+Added Pin To Net: NetName=+12V Pin=Cvcc-2
+Added Pin To Net: NetName=+12V Pin=U5V2-3
+Added Pin To Net: NetName=+12V Pin=U?-21
+Added Pin To Net: NetName=+12V Pin=U?-25
+Change Net Name : Old Net Name=+12V New Net Name=+10V
+Added Member To Class: ClassName=SM3320-BATT-EV Member=Component Ron 0402WGF2003TCE

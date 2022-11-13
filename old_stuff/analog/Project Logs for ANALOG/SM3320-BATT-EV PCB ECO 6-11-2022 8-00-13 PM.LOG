@@ -1,0 +1,12 @@
+Added Component: Designator=R40(R_2512)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "http://riedon.com/media/pdf/CSR.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://riedon.com/media/pdf/CSR.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLC Availability"; Value = "Extended"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C349153"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "2W"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=PGND Pin=R40-1
+Added Pin To Net: NetName=GND Pin=R40-2
+Added Member To Class: ClassName=SM3320-BATT-EV Member=Component C15 0402B102K500NT
+Added Member To Class: ClassName=SM3320-BATT-EV Member=Component R9 0402WGF100JTCE
+Added Member To Class: ClassName=SM3320-BATT-EV Member=Component R40 1m

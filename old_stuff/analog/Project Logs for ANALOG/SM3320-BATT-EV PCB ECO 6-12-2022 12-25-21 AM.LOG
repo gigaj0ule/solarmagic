@@ -1,0 +1,16 @@
+Added Pin To Net: NetName=CLKOUT Pin=U-10
+Added Net: Name=CLKOUT
+Added Pin To Net: NetName=FBIN Pin=U-5
+Added Net: Name=FBIN
+Added Pin To Net: NetName=FBOUT Pin=U-6
+Added Net: Name=FBOUT
+Added Pin To Net: NetName=MODE Pin=U-37
+Added Net: Name=MODE
+Added Pin To Net: NetName=SRVO_FBIN Pin=U-25
+Added Net: Name=SRVO_FBIN
+Added Pin To Net: NetName=SRVO_FBOUT Pin=U-28
+Added Net: Name=SRVO_FBOUT
+Added Pin To Net: NetName=SRVO_IIN Pin=U-26
+Added Net: Name=SRVO_IIN
+Added Pin To Net: NetName=SRVO_IOUT Pin=U-27
+Added Net: Name=SRVO_IOUT

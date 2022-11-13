@@ -1,0 +1,38 @@
+Added Component: Designator=Rvinsns1(R_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C17168"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0R"; VariantName = "[No Variations]"
+Added Component: Designator=Rvinsns2(R_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C17168"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0R"; VariantName = "[No Variations]"
+Added Component: Designator=Rvoutsns1(R_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C17168"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0R"; VariantName = "[No Variations]"
+Added Component: Designator=Rvoutsns2(R_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C17168"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0R"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VIN_P Pin=Rvinsns1-2
+Added Pin To Net: NetName=CSNIN Pin=Rvinsns2-2
+Added Pin To Net: NetName=CSPOUT Pin=Rvoutsns1-2
+Added Pin To Net: NetName=VOUT_N Pin=Rvoutsns2-2
+Change Net Name : Old Net Name=CSNIN New Net Name=VIN_N
+Change Net Name : Old Net Name=CSPOUT New Net Name=VOUT_P
+Added Pin To Net: NetName=ISNS+ Pin=Rvinsns1-1
+Added Pin To Net: NetName=ISNS+ Pin=Rvoutsns1-1
+Added Pin To Net: NetName=ISNS+ Pin=U?-14
+Added Net: Name=ISNS+
+Added Pin To Net: NetName=ISNS- Pin=Rvinsns2-1
+Added Pin To Net: NetName=ISNS- Pin=Rvoutsns2-1
+Added Pin To Net: NetName=ISNS- Pin=U?-13
+Added Net: Name=ISNS-
+Added Member To Class: ClassName=SM3320-BATT-EV Member=Component Rvinsns1 0402WGF0000TCE
+Added Member To Class: ClassName=SM3320-BATT-EV Member=Component Rvinsns2 0402WGF0000TCE
+Added Member To Class: ClassName=SM3320-BATT-EV Member=Component Rvoutsns1 0402WGF0000TCE
+Added Member To Class: ClassName=SM3320-BATT-EV Member=Component Rvoutsns2 0402WGF0000TCE

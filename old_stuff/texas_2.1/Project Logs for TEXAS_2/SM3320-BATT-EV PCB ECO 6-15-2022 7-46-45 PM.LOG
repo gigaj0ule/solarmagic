@@ -1,0 +1,19 @@
+Added Component: Designator=Rbin(R_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C25076"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100R"; VariantName = "[No Variations]"
+Added Component: Designator=Rbout(R_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C25076"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100R"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=BIN Pin=Rbin-2
+Added Pin To Net: NetName=BOUT Pin=Rbout-2
+Added Pin To Net: NetName=BIN_R Pin=Rbin-1
+Added Net: Name=BIN_R
+Added Pin To Net: NetName=BOUT_R Pin=Rbout-1
+Added Net: Name=BOUT_R
+Added Member To Class: ClassName=SM3320-BATT-EV Member=Component Rbin 0402WGF1000TCE
+Added Member To Class: ClassName=SM3320-BATT-EV Member=Component Rbout 0402WGF1000TCE
+Added Member To Class: ClassName=SM3320-BATT-EV Member=Component Rpm 0402WGF5602TCE

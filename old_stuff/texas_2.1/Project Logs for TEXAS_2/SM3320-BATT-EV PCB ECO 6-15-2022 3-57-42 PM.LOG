@@ -1,0 +1,38 @@
+Change Component DesignItemId : Designator=C37 Old DesignItemId=CL05B104KO5NNNC New DesignItemId=CL05B103KB5NNNC
+Change Component DesignItemId : Designator=C39 Old DesignItemId=CL05B104KO5NNNC New DesignItemId=CL05B103KB5NNNC
+Change Component DesignItemId : Designator=Cboot1 Old DesignItemId=CL05B224KO5NNNC New DesignItemId=CL10B474KA8NNNC
+Change Component DesignItemId : Designator=Cboot2 Old DesignItemId=CL05B224KO5NNNC New DesignItemId=CL10B474KA8NNNC
+Change Component Footprint: Designator=Cboot1 Old Footprint=C_0402 New Footprint=C_0603
+Change Component Footprint: Designator=Cboot2 Old Footprint=C_0402 New Footprint=C_0603
+Change Component Comment : Designator=C37 Old Comment=CL05B104KO5NNNC New Comment=CL05B103KB5NNNC
+Change Component Comment : Designator=C39 Old Comment=CL05B104KO5NNNC New Comment=CL05B103KB5NNNC
+Change Component Comment : Designator=Cboot1 Old Comment=CL05B224KO5NNNC New Comment=CL10B474KA8NNNC
+Change Component Comment : Designator=Cboot2 Old Comment=CL05B224KO5NNNC New Comment=CL10B474KA8NNNC
+Change Component Description : Designator=C37 Old Description=C - CAPACITOR - MLCC - 100nF - 16V - 0402 New Description=C - CAPACITOR - MLCC - 10nF - 50V - 0402
+Change Component Description : Designator=C39 Old Description=C - CAPACITOR - MLCC - 100nF - 16V - 0402 New Description=C - CAPACITOR - MLCC - 10nF - 50V - 0402
+Change Component Description : Designator=Cboot1 Old Description=C - CAPACITOR - MLCC - 220nF - 16V - 0402 New Description=C - CAPACITOR - MLCC - 470nF - 25V - 0603
+Change Component Description : Designator=Cboot2 Old Description=C - CAPACITOR - MLCC - 220nF - 16V - 0402 New Description=C - CAPACITOR - MLCC - 470nF - 25V - 0603
+Change component parameters: Designator = "C37"; Footprint = "C_0402"; UniqueID = "\XHOAHNBX"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C15195"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "WVDC"; Value = "50"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C39"; Footprint = "C_0402"; UniqueID = "\VSHRIBKE"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C15195"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "WVDC"; Value = "50"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Cboot1"; Footprint = "C_0603"; UniqueID = "\MDGRYLKF"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C1623"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "47nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "WVDC"; Value = "25"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Cboot2"; Footprint = "C_0603"; UniqueID = "\XLKKCKVA"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C1623"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "47nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "WVDC"; Value = "25"; VariantName = "[No Variations]"

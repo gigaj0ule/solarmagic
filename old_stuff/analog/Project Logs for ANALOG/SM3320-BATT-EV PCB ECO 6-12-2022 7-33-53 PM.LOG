@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=GND Pin=D_CLAMP_18-2
+Change Component Designator: OldDesignator=C41 NewDesignator=C410
+Added Component: Designator=C41(C_1206)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "Extended"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C91151"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "WVDC"; Value = "100"; VariantName = "[No Variations]"
+Added Component: Designator=C620(C_1206)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "Extended"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C91151"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "WVDC"; Value = "100"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C41-1
+Added Pin To Net: NetName=VIN_P Pin=C41-2
+Added Pin To Net: NetName=GND Pin=C620-1
+Added Pin To Net: NetName=VIN_P Pin=C620-2
+Added Pin To Net: NetName=GND_IN Pin=D_CLAMP_18-2
+Added Member To Class: ClassName=SM3320-BATT-EV Member=Component C410 1206B105K101NT
+Added Member To Class: ClassName=SM3320-BATT-EV Member=Component C620 1206B105K101NT

@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=IMON_OUT Pin=U324-3
+Removed Pin From Net: NetName=+3V3 Pin=U324-4
+Removed Pin From Net: NetName=IMON_IN Pin=U324-5
+Removed Pin From Net: NetName=FBOUT Pin=U324-10
+Removed Pin From Net: NetName=GND Pin=U324-11
+Removed Pin From Net: NetName=FBIN Pin=U324-12
+Removed Member From Class: ClassName=SM3320-BATT-EV Member=U324

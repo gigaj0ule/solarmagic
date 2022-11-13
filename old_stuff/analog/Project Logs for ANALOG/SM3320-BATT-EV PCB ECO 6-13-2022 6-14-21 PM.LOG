@@ -1,0 +1,40 @@
+Removed Pin From Net: NetName=+5VDC Pin=C38-2
+Removed Pin From Net: NetName=+5VDC Pin=C42-2
+Removed Pin From Net: NetName=+5VDC Pin=R17-2
+Change Component DesignItemId : Designator=R100 Old DesignItemId=0402WGF1001TCE New DesignItemId=0402WGF1000TCE
+Change Component DesignItemId : Designator=R101 Old DesignItemId=0402WGF1001TCE New DesignItemId=0402WGF1000TCE
+Change Component DesignItemId : Designator=R102 Old DesignItemId=0402WGF1001TCE New DesignItemId=0402WGF1000TCE
+Change Component DesignItemId : Designator=R103 Old DesignItemId=0402WGF1001TCE New DesignItemId=0402WGF1000TCE
+Change Component Comment : Designator=R100 Old Comment=0402WGF1001TCE New Comment=0402WGF1000TCE
+Change Component Comment : Designator=R101 Old Comment=0402WGF1001TCE New Comment=0402WGF1000TCE
+Change Component Comment : Designator=R102 Old Comment=0402WGF1001TCE New Comment=0402WGF1000TCE
+Change Component Comment : Designator=R103 Old Comment=0402WGF1001TCE New Comment=0402WGF1000TCE
+Change Component Description : Designator=R100 Old Description=R - RESISTOR - SMD - 1k - 1% - 0402 New Description=R - RESISTOR - SMD - 100R - 1% - 0402
+Change Component Description : Designator=R101 Old Description=R - RESISTOR - SMD - 1k - 1% - 0402 New Description=R - RESISTOR - SMD - 100R - 1% - 0402
+Change Component Description : Designator=R102 Old Description=R - RESISTOR - SMD - 1k - 1% - 0402 New Description=R - RESISTOR - SMD - 100R - 1% - 0402
+Change Component Description : Designator=R103 Old Description=R - RESISTOR - SMD - 1k - 1% - 0402 New Description=R - RESISTOR - SMD - 100R - 1% - 0402
+Change component parameters: Designator = "R100"; Footprint = "R_0402"; UniqueID = "\EDGCYSWY"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C25076"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R101"; Footprint = "R_0402"; UniqueID = "\CGMQEVFJ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C25076"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R102"; Footprint = "R_0402"; UniqueID = "\RXGMMJSX"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C25076"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R103"; Footprint = "R_0402"; UniqueID = "\ERGFJGLG"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C25076"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100R"; VariantName = "[No Variations]"
+Change Net Name : Old Net Name=+5VDC New Net Name=+3V3
+Added Pin To Net: NetName=+5VDC Pin=C38-2
+Added Pin To Net: NetName=+5VDC Pin=C42-2
+Added Pin To Net: NetName=+5VDC Pin=R17-2
+Added Net: Name=+5VDC

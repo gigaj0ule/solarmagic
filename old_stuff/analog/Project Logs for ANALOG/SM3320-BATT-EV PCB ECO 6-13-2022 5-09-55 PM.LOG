@@ -1,0 +1,8 @@
+Added Pin To Net: NetName=FBOUT Pin=U324-10
+Added Pin To Net: NetName=FBIN Pin=U324-12
+Added Pin To Net: NetName=FBIN_B Pin=U324-13
+Added Pin To Net: NetName=FBIN_B Pin=U324-14
+Added Net: Name=FBIN_B
+Added Pin To Net: NetName=FBOUT_B Pin=U324-8
+Added Pin To Net: NetName=FBOUT_B Pin=U324-9
+Added Net: Name=FBOUT_B

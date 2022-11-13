@@ -1,0 +1,20 @@
+Change Component Designator: OldDesignator=R11 NewDesignator=R110
+Change Component Designator: OldDesignator=R14 NewDesignator=R140
+Added Component: Designator=R11(R_0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C22936"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100k"; VariantName = "[No Variations]"
+Added Component: Designator=R14(R_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C25768"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22k"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VIN_P Pin=R11-2
+Added Pin To Net: NetName=GND Pin=R14-1
+Added Pin To Net: NetName=SHDN Pin=R11-1
+Added Pin To Net: NetName=SHDN Pin=R14-2
+Added Pin To Net: NetName=SHDN Pin=U-1
+Added Net: Name=SHDN
+Added Member To Class: ClassName=SM3320-BATT-EV Member=Component R110 1206W4F100JT5E
+Added Member To Class: ClassName=SM3320-BATT-EV Member=Component R140 1206W4F100JT5E

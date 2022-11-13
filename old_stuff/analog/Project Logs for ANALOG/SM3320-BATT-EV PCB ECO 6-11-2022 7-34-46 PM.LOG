@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=VOUT_P Pin=R10-1
+Added Pin To Net: NetName=CSPOUT Pin=R10-1

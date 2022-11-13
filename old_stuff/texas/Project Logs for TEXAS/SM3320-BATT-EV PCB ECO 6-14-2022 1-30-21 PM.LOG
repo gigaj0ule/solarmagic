@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=VIN_P Pin=C46-2
+Removed Pin From Net: NetName=VIN_P Pin=RVIN-2
+Change Component Designator: OldDesignator=C46 NewDesignator=Cf
+Change Component Designator: OldDesignator=RVIN NewDesignator=Rf
+Added Component: Designator=Df(SOD-323)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "If"; Value = "150mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C2128"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PIV"; Value = "100V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Trr"; Value = "4ns"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VIN Pin=Cf-2
+Added Pin To Net: NetName=VIN_P Pin=Df-2
+Added Pin To Net: NetName=NetDf_1 Pin=Df-1
+Added Pin To Net: NetName=NetDf_1 Pin=Rf-2
+Added Net: Name=NetDf_1
+Added Member To Class: ClassName=SM3320-BATT-EV Member=Component Df N4148WS

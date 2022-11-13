@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=ISNS+ Pin=Rioutsns1-1
+Removed Pin From Net: NetName=ISNS- Pin=Rioutsns2-1
+Added Pin To Net: NetName=SIB Pin=Rioutsns1-1
+Added Pin To Net: NetName=SIB Pin=U?-14
+Added Net: Name=SIB
+Added Pin To Net: NetName=SOB Pin=Rioutsns2-1
+Added Pin To Net: NetName=SOB Pin=U?-13
+Added Net: Name=SOB
+Added Member To Class: ClassName=SM3320-BATT-EV Member=Component C? 0402B102K500NT
+Added Member To Class: ClassName=SM3320-BATT-EV Member=Component C? CL05B104KO5NNNC
+Added Member To Class: ClassName=SM3320-BATT-EV Member=Component R? 0402WGF4702TCE
+Added Member To Class: ClassName=SM3320-BATT-EV Member=Component R? 0402WGF1002TCE

@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=IMON_IN Pin=U324-3
+Removed Pin From Net: NetName=IMON_OUT Pin=U324-5
+Added Pin To Net: NetName=IMON_OUT Pin=U324-3
+Added Pin To Net: NetName=IMON_IN Pin=U324-5
+Change Net Name : Old Net Name=IMON_IN_B New Net Name=IMON_OUT_B
+Change Net Name : Old Net Name=IMON_OUT_B New Net Name=IMON_IN_B

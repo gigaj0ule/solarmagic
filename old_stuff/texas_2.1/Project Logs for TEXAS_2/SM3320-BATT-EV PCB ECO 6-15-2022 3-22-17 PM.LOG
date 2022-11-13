@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=GND Pin=D_CLAMP_16-2
+Added Component: Designator=D_CLAMP_17(DO-213AA)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "BASIC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C8062"; VariantName = "[No Variations]"
+Added Component: Designator=D_CLAMP_18(DO-213AA)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "BASIC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C8062"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=D_CLAMP_18-2
+Added Pin To Net: NetName=NetD_CLAMP_16_2 Pin=D_CLAMP_16-2
+Added Pin To Net: NetName=NetD_CLAMP_16_2 Pin=D_CLAMP_17-1
+Added Net: Name=NetD_CLAMP_16_2
+Added Pin To Net: NetName=NetD_CLAMP_17_2 Pin=D_CLAMP_17-2
+Added Pin To Net: NetName=NetD_CLAMP_17_2 Pin=D_CLAMP_18-1
+Added Net: Name=NetD_CLAMP_17_2
+Added Member To Class: ClassName=SM3320-BATT-EV Member=Component D_CLAMP_17 ZMM5V6-M
+Added Member To Class: ClassName=SM3320-BATT-EV Member=Component D_CLAMP_18 ZMM5V6-M

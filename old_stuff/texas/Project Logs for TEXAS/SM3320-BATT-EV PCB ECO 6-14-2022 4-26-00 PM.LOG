@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=FBOUT Pin=U1-11
+Removed Member From Class: ClassName=SM3320-BATT-EV Member=C?
+Added Component: Designator=Rfb1(R_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C17168"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0R"; VariantName = "[No Variations]"
+Added Component: Designator=Rfb2(R_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C17168"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0R"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=FBOUT Pin=Rfb1-2
+Added Pin To Net: NetName=ISNS- Pin=Rfb2-1
+Added Pin To Net: NetName=FBIN Pin=Rfb2-2
+Added Pin To Net: NetName=FB Pin=Rfb1-1
+Added Pin To Net: NetName=FB Pin=U1-11
+Added Net: Name=FB
+Added Member To Class: ClassName=SM3320-BATT-EV Member=Component Rfb1 0402WGF0000TCE
+Added Member To Class: ClassName=SM3320-BATT-EV Member=Component Rfb2 0402WGF0000TCE

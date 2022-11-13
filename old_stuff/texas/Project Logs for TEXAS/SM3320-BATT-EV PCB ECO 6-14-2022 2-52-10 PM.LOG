@@ -1,0 +1,9 @@
+Change Component DesignItemId : Designator=CCS Old DesignItemId=CL05A105KA5NQNC New DesignItemId=0402CG560J500NT
+Change Component Comment : Designator=CCS Old Comment=CL05A105KA5NQNC New Comment=0402CG560J500NT
+Change Component Description : Designator=CCS Old Description=C - CAPACITOR - MLCC - 1uF - 25V - 0402 New Description=C - CAPACITOR - MLCC - 56pF - 50V -  0402
+Change component parameters: Designator = "CCS"; Footprint = "C_0402"; UniqueID = "\HMKIFXSY"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C1572"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "56pF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "WVDC"; Value = "50"; VariantName = "[No Variations]"

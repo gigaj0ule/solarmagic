@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=VIN_N Pin=Rvisns-1
+Change Component DesignItemId : Designator=Rvisns Old DesignItemId=0402WGF2201TCE New DesignItemId=0402WGF0000TCE
+Change Component Comment : Designator=Rvisns Old Comment=0402WGF2201TCE New Comment=0402WGF0000TCE
+Change Component Description : Designator=Rvisns Old Description=R - RESISTOR - SMD - 2.2k - 1% - 0402 New Description=R - RESISTOR - SMD - 0R - 1% - 0402
+Change component parameters: Designator = "Rvisns"; Footprint = "R_0402"; UniqueID = "\OIANHFEW"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C17168"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0R"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5VDC Pin=Rvisns-1
+Added Pin To Net: NetName=PM Pin=Rvisns-2
+Added Member To Class: ClassName=SM3320-BATT-EV Member=Component CISNS CL05A105KA5NQNC

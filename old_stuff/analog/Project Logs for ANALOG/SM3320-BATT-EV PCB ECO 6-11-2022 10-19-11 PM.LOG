@@ -1,0 +1,25 @@
+Removed Pin From Net: NetName=GND Pin=NT2-2
+Added Component: Designator=C56(C_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C15525"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "WVDC"; Value = "6.3"; VariantName = "[No Variations]"
+Added Component: Designator=C57(C_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C15525"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "WVDC"; Value = "6.3"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C56-1
+Added Pin To Net: NetName=GATEVCC Pin=C56-2
+Added Pin To Net: NetName=GND Pin=C57-1
+Added Pin To Net: NetName=GATEVCC Pin=NT2-2
+Added Pin To Net: NetName=INTVCC Pin=C57-2
+Added Pin To Net: NetName=INTVCC Pin=NT2-1
+Added Pin To Net: NetName=INTVCC Pin=U-35
+Added Net: Name=INTVCC
+Added Member To Class: ClassName=SM3320-BATT-EV Member=Component C13 CL05B224KO5NNNC
+Added Member To Class: ClassName=SM3320-BATT-EV Member=Component C47 CL05B224KO5NNNC
+Added Member To Class: ClassName=SM3320-BATT-EV Member=Component C56 CL05A106MQ5NUNC
+Added Member To Class: ClassName=SM3320-BATT-EV Member=Component C57 CL05A106MQ5NUNC

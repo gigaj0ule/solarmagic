@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=+3V3 Pin=U324-4
+Removed Pin From Net: NetName=FBOUT Pin=U324-10
+Removed Pin From Net: NetName=GND Pin=U324-11
+Removed Pin From Net: NetName=FBIN Pin=U324-12
+Removed Member From Class: ClassName=SM3320-BATT-EV Member=U324
+Added Member To Class: ClassName=SM3320-BATT-EV Member=Component C? CL05B104KO5NNNC
+Added Member To Class: ClassName=SM3320-BATT-EV Member=Component C? 0402B102K500NT
+Added Member To Class: ClassName=SM3320-BATT-EV Member=Component R? 0402WGF1002TCE
+Added Member To Class: ClassName=SM3320-BATT-EV Member=Component R? 0402WGF4702TCE

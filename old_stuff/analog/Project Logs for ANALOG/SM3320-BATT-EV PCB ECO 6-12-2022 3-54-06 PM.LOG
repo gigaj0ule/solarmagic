@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=FBOUT Pin=R13-2
+Added Pin To Net: NetName=VOUT_N Pin=R13-2
+Added Member To Class: ClassName=SM3320-BATT-EV Member=Component R16 0402WGF1002TCE
