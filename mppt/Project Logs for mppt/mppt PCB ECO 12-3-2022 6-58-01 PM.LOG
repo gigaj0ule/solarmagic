@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=MT_VDDA_T Pin=MT_R_TF-2
+Removed Pin From Net: NetName=MT_VSSA Pin=MT_RT_TF-1
+Removed Member From Class: ClassName=mppt Member=MT_R_TF
+Removed Member From Class: ClassName=mppt Member=MT_RT_TF

@@ -1,0 +1,173 @@
+Change Component Designator: OldDesignator=C? NewDesignator=C
+Change Component Designator: OldDesignator=C_vdd_ts_a? NewDesignator=C_vdd_ts_a
+Added Component: Designator=FIVE_Q_A(TO-236AB)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C8545"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "WVDC"; Value = "60"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=FIVE_C_AA-2
+Added Pin To Net: NetName=GND Pin=FIVE_C_AB-2
+Added Pin To Net: NetName=GND Pin=FIVE_C_AC-2
+Added Pin To Net: NetName=GND Pin=FIVE_C_AD-2
+Added Pin To Net: NetName=GND Pin=FIVE_C_AE-2
+Added Pin To Net: NetName=GND Pin=FIVE_C_AF-2
+Added Pin To Net: NetName=GND Pin=FIVE_C_AG-2
+Added Pin To Net: NetName=GND Pin=FIVE_C_AH-2
+Added Pin To Net: NetName=GND Pin=FIVE_C_AI-2
+Added Pin To Net: NetName=GND Pin=FIVE_C_AJ-2
+Added Pin To Net: NetName=GND Pin=FIVE_C_AK-2
+Added Pin To Net: NetName=GND Pin=FIVE_C_AL-2
+Added Pin To Net: NetName=GND Pin=FIVE_C_AM-2
+Added Pin To Net: NetName=GND Pin=FIVE_C_AN-2
+Added Pin To Net: NetName=GND Pin=FIVE_C_AO-2
+Added Pin To Net: NetName=GND Pin=FIVE_C_AP-2
+Added Pin To Net: NetName=GND Pin=FIVE_C_AQ-2
+Added Pin To Net: NetName=GND Pin=FIVE_C_AR-2
+Added Pin To Net: NetName=GND Pin=FIVE_C_AS-2
+Added Pin To Net: NetName=GND Pin=FIVE_C_AT-2
+Added Pin To Net: NetName=GND Pin=FIVE_C_AU-2
+Added Pin To Net: NetName=GND Pin=FIVE_C_AV-2
+Added Pin To Net: NetName=GND Pin=FIVE_C_AW-2
+Added Pin To Net: NetName=GND Pin=FIVE_C_AX-2
+Added Pin To Net: NetName=GND Pin=FIVE_C_AY-2
+Added Pin To Net: NetName=GND Pin=FIVE_C_AZ-2
+Added Pin To Net: NetName=GND Pin=FIVE_C_BA-2
+Added Pin To Net: NetName=GND Pin=FIVE_C_BB-2
+Added Pin To Net: NetName=GND Pin=FIVE_C_BC-2
+Added Pin To Net: NetName=GND Pin=FIVE_C_BD-2
+Added Pin To Net: NetName=GND Pin=FIVE_C_BE-2
+Added Pin To Net: NetName=GND Pin=FIVE_C_BF-2
+Added Pin To Net: NetName=GND Pin=FIVE_C_BG-2
+Added Pin To Net: NetName=GND Pin=FIVE_C_BH-2
+Added Pin To Net: NetName=GND Pin=FIVE_C_BI-2
+Added Pin To Net: NetName=GND Pin=FIVE_C_BJ-2
+Added Pin To Net: NetName=GND Pin=FIVE_C_DA-2
+Added Pin To Net: NetName=GND Pin=FIVE_C_DB-2
+Added Pin To Net: NetName=GND Pin=FIVE_C_DC-2
+Added Pin To Net: NetName=GND Pin=FIVE_C_DD-2
+Added Pin To Net: NetName=GND Pin=FIVE_C_DE-2
+Added Pin To Net: NetName=GND Pin=FIVE_D_A-2
+Added Pin To Net: NetName=GND Pin=FIVE_Q_A-2
+Added Pin To Net: NetName=GND Pin=FIVE_R_B-2
+Added Pin To Net: NetName=GND Pin=FIVE_R_D-1
+Added Pin To Net: NetName=+5V Pin=FIVE_R_F-2
+Added Pin To Net: NetName=GND Pin=U_FIVE_A-3
+Added Pin To Net: NetName=GND Pin=U_FIVE_A-6
+Added Pin To Net: NetName=+5V_I Pin=FIVE_C_AA-1
+Added Pin To Net: NetName=+5V_I Pin=FIVE_C_AB-1
+Added Pin To Net: NetName=+5V_I Pin=FIVE_C_AC-1
+Added Pin To Net: NetName=+5V_I Pin=FIVE_C_AD-1
+Added Pin To Net: NetName=+5V_I Pin=FIVE_C_AE-1
+Added Pin To Net: NetName=+5V_I Pin=FIVE_C_AF-1
+Added Pin To Net: NetName=+5V_I Pin=FIVE_C_AG-1
+Added Pin To Net: NetName=+5V_I Pin=FIVE_C_AH-1
+Added Pin To Net: NetName=+5V_I Pin=FIVE_C_AI-1
+Added Pin To Net: NetName=+5V_I Pin=FIVE_C_AJ-1
+Added Pin To Net: NetName=+5V_I Pin=FIVE_C_AK-1
+Added Pin To Net: NetName=+5V_I Pin=FIVE_C_AL-1
+Added Pin To Net: NetName=+5V_I Pin=FIVE_C_AM-1
+Added Pin To Net: NetName=+5V_I Pin=FIVE_C_AN-1
+Added Pin To Net: NetName=+5V_I Pin=FIVE_C_AO-1
+Added Pin To Net: NetName=+5V_I Pin=FIVE_C_AP-1
+Added Pin To Net: NetName=+5V_I Pin=FIVE_C_AQ-1
+Added Pin To Net: NetName=+5V_I Pin=FIVE_C_AR-1
+Added Pin To Net: NetName=+5V_I Pin=FIVE_C_AS-1
+Added Pin To Net: NetName=+5V_I Pin=FIVE_C_AT-1
+Added Pin To Net: NetName=+5V_I Pin=FIVE_C_AU-1
+Added Pin To Net: NetName=+5V_I Pin=FIVE_C_AV-1
+Added Pin To Net: NetName=+5V_I Pin=FIVE_C_AW-1
+Added Pin To Net: NetName=+5V_I Pin=FIVE_C_AX-1
+Added Pin To Net: NetName=+5V_I Pin=FIVE_C_AY-1
+Added Pin To Net: NetName=+5V_I Pin=FIVE_C_AZ-1
+Added Pin To Net: NetName=+5V_I Pin=FIVE_C_BA-1
+Added Pin To Net: NetName=+5V_I Pin=FIVE_C_BB-1
+Added Pin To Net: NetName=+5V_I Pin=FIVE_C_BC-1
+Added Pin To Net: NetName=+5V_I Pin=FIVE_C_BD-1
+Added Pin To Net: NetName=+5V_I Pin=FIVE_C_BE-1
+Added Pin To Net: NetName=+5V_I Pin=FIVE_C_BF-1
+Added Pin To Net: NetName=+5V_I Pin=FIVE_C_BG-1
+Added Pin To Net: NetName=+5V_I Pin=FIVE_C_BH-1
+Added Pin To Net: NetName=+5V_I Pin=FIVE_C_BI-1
+Added Pin To Net: NetName=+5V_I Pin=FIVE_C_BJ-1
+Added Pin To Net: NetName=+5V_I Pin=FIVE_R_C-1
+Added Pin To Net: NetName=+5V_I Pin=FIVE_R_E-2
+Added Pin To Net: NetName=+5V_I Pin=FIVE_R_F-1
+Added Net: Name=+5V_I
+Added Pin To Net: NetName=BUTTON_OC Pin=FIVE_Q_A-3
+Added Pin To Net: NetName=BUTTON_OC Pin=FIVE_R_A-2
+Added Pin To Net: NetName=BUTTON_OC Pin=U_FIVE_A-5
+Added Net: Name=BUTTON_OC
+Added Pin To Net: NetName=CELL_12_FUSED Pin=FIVE_C_DA-1
+Added Pin To Net: NetName=CELL_12_FUSED Pin=FIVE_C_DB-1
+Added Pin To Net: NetName=CELL_12_FUSED Pin=FIVE_C_DC-1
+Added Pin To Net: NetName=CELL_12_FUSED Pin=FIVE_C_DD-1
+Added Pin To Net: NetName=CELL_12_FUSED Pin=FIVE_C_DE-1
+Added Pin To Net: NetName=CELL_12_FUSED Pin=FIVE_R_A-1
+Added Pin To Net: NetName=CELL_12_FUSED Pin=U_FIVE_A-1
+Added Net: Name=CELL_12_FUSED
+Added Pin To Net: NetName=FIVE_FB Pin=FIVE_R_C-2
+Added Pin To Net: NetName=FIVE_FB Pin=FIVE_R_D-2
+Added Pin To Net: NetName=FIVE_FB Pin=U_FIVE_A-4
+Added Net: Name=FIVE_FB
+Added Pin To Net: NetName=NetFIVE_D_A_1 Pin=FIVE_D_A-1
+Added Pin To Net: NetName=NetFIVE_D_A_1 Pin=FIVE_L_A-1
+Added Pin To Net: NetName=NetFIVE_D_A_1 Pin=U_FIVE_A-2
+Added Net: Name=NetFIVE_D_A_1
+Added Pin To Net: NetName=NetFIVE_L_A_2 Pin=FIVE_L_A-2
+Added Pin To Net: NetName=NetFIVE_L_A_2 Pin=FIVE_R_E-1
+Added Net: Name=NetFIVE_L_A_2
+Added Pin To Net: NetName=WAKEUP_R Pin=FIVE_Q_A-1
+Added Pin To Net: NetName=WAKEUP_R Pin=FIVE_R_B-1
+Added Net: Name=WAKEUP_R
+Added Member To Class: ClassName=mppt Member=Component FIVE_C_AA CL10A106MA8NRNC
+Added Member To Class: ClassName=mppt Member=Component FIVE_C_AB CL10A106MA8NRNC
+Added Member To Class: ClassName=mppt Member=Component FIVE_C_AC CL10A106MA8NRNC
+Added Member To Class: ClassName=mppt Member=Component FIVE_C_AD CL10A106MA8NRNC
+Added Member To Class: ClassName=mppt Member=Component FIVE_C_AE CL10A106MA8NRNC
+Added Member To Class: ClassName=mppt Member=Component FIVE_C_AF CL10A106MA8NRNC
+Added Member To Class: ClassName=mppt Member=Component FIVE_C_AG CL10A106MA8NRNC
+Added Member To Class: ClassName=mppt Member=Component FIVE_C_AH CL10A106MA8NRNC
+Added Member To Class: ClassName=mppt Member=Component FIVE_C_AI CL10A106MA8NRNC
+Added Member To Class: ClassName=mppt Member=Component FIVE_C_AJ CL10A106MA8NRNC
+Added Member To Class: ClassName=mppt Member=Component FIVE_C_AK CL10A106MA8NRNC
+Added Member To Class: ClassName=mppt Member=Component FIVE_C_AL CL10A106MA8NRNC
+Added Member To Class: ClassName=mppt Member=Component FIVE_C_AM CL10A106MA8NRNC
+Added Member To Class: ClassName=mppt Member=Component FIVE_C_AN CL10A106MA8NRNC
+Added Member To Class: ClassName=mppt Member=Component FIVE_C_AO CL10A106MA8NRNC
+Added Member To Class: ClassName=mppt Member=Component FIVE_C_AP CL10A106MA8NRNC
+Added Member To Class: ClassName=mppt Member=Component FIVE_C_AQ CL10A106MA8NRNC
+Added Member To Class: ClassName=mppt Member=Component FIVE_C_AR CL10A106MA8NRNC
+Added Member To Class: ClassName=mppt Member=Component FIVE_C_AS CL10A106MA8NRNC
+Added Member To Class: ClassName=mppt Member=Component FIVE_C_AT CL10A106MA8NRNC
+Added Member To Class: ClassName=mppt Member=Component FIVE_C_AU CL10A106MA8NRNC
+Added Member To Class: ClassName=mppt Member=Component FIVE_C_AV CL10A106MA8NRNC
+Added Member To Class: ClassName=mppt Member=Component FIVE_C_AW CL10A106MA8NRNC
+Added Member To Class: ClassName=mppt Member=Component FIVE_C_AX CL10A106MA8NRNC
+Added Member To Class: ClassName=mppt Member=Component FIVE_C_AY CL10A106MA8NRNC
+Added Member To Class: ClassName=mppt Member=Component FIVE_C_AZ CL10A106MA8NRNC
+Added Member To Class: ClassName=mppt Member=Component FIVE_C_BA CL10A106MA8NRNC
+Added Member To Class: ClassName=mppt Member=Component FIVE_C_BB CL10A106MA8NRNC
+Added Member To Class: ClassName=mppt Member=Component FIVE_C_BC CL10A106MA8NRNC
+Added Member To Class: ClassName=mppt Member=Component FIVE_C_BD CL10A106MA8NRNC
+Added Member To Class: ClassName=mppt Member=Component FIVE_C_BE CL10A106MA8NRNC
+Added Member To Class: ClassName=mppt Member=Component FIVE_C_BF CL10A106MA8NRNC
+Added Member To Class: ClassName=mppt Member=Component FIVE_C_BG CL10A106MA8NRNC
+Added Member To Class: ClassName=mppt Member=Component FIVE_C_BH CL10A106MA8NRNC
+Added Member To Class: ClassName=mppt Member=Component FIVE_C_BI CL10A106MA8NRNC
+Added Member To Class: ClassName=mppt Member=Component FIVE_C_BJ CL10A106MA8NRNC
+Added Member To Class: ClassName=mppt Member=Component FIVE_C_DA 1206B105K101NT
+Added Member To Class: ClassName=mppt Member=Component FIVE_C_DB 1206B105K101NT
+Added Member To Class: ClassName=mppt Member=Component FIVE_C_DC 1206B105K101NT
+Added Member To Class: ClassName=mppt Member=Component FIVE_C_DD 1206B105K101NT
+Added Member To Class: ClassName=mppt Member=Component FIVE_C_DE 1206B105K101NT
+Added Member To Class: ClassName=mppt Member=Component FIVE_D_A SS210
+Added Member To Class: ClassName=mppt Member=Component FIVE_L_A SWRB1207S-221MT
+Added Member To Class: ClassName=mppt Member=Component FIVE_Q_A 2N7002
+Added Member To Class: ClassName=mppt Member=Component FIVE_R_A 0402WGF1004TCE
+Added Member To Class: ClassName=mppt Member=Component FIVE_R_B 0402WGF1002TCE
+Added Member To Class: ClassName=mppt Member=Component FIVE_R_C 0402WGF1201TCE
+Added Member To Class: ClassName=mppt Member=Component FIVE_R_D 0603WAF3900T5E
+Added Member To Class: ClassName=mppt Member=Component FIVE_R_E 1206W4F100LT5E
+Added Member To Class: ClassName=mppt Member=Component FIVE_R_F 0402WGF0000TCE
+Added Member To Class: ClassName=mppt Member=Component Q_LEDVSS 2N7002
+Added Member To Class: ClassName=mppt Member=Component U_FIVE_A LM2576HVS-ADJ/TR

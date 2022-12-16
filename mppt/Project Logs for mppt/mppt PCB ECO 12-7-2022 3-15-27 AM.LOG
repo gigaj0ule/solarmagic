@@ -1,0 +1,24 @@
+Removed Pin From Net: NetName=BG1 Pin=Rbg1b-1
+Removed Pin From Net: NetName=NetD5_2 Pin=Rbg1b-2
+Removed Pin From Net: NetName=TG1 Pin=Rtg1b-1
+Removed Pin From Net: NetName=NetD3_2 Pin=Rtg1b-2
+Removed Member From Class: ClassName=mppt Member=Rbg1b
+Removed Member From Class: ClassName=mppt Member=Rtg1b
+Change Component DesignItemId : Designator=Rbg1a Old DesignItemId=0402WGF100JTCE New DesignItemId=0603WAF100KT5E
+Change Component DesignItemId : Designator=Rtg1a Old DesignItemId=0402WGF100JTCE New DesignItemId=0603WAF100KT5E
+Change Component Footprint: Designator=Rbg1a Old Footprint=R_0402 New Footprint=R_0603
+Change Component Footprint: Designator=Rtg1a Old Footprint=R_0402 New Footprint=R_0603
+Change Component Comment : Designator=Rbg1a Old Comment=0402WGF100JTCE New Comment=0603WAF100KT5E
+Change Component Comment : Designator=Rtg1a Old Comment=0402WGF100JTCE New Comment=0603WAF100KT5E
+Change Component Description : Designator=Rbg1a Old Description=R - RESISTOR - SMD - 10R - 1% - 0402 New Description=R - RESISTOR - SMD - 1R - 1% -  0603
+Change Component Description : Designator=Rtg1a Old Description=R - RESISTOR - SMD - 10R - 1% - 0402 New Description=R - RESISTOR - SMD - 1R - 1% -  0603
+Change component parameters: Designator = "Rbg1a"; Footprint = "R_0603"; UniqueID = "\FDNCJWKP"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C22936"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Rtg1a"; Footprint = "R_0603"; UniqueID = "\FRVGUNLT"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C22936"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1R"; VariantName = "[No Variations]"

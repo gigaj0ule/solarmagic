@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=+10V Pin=MT_D_KA-1
+Added Pin To Net: NetName=+10V Pin=MT_D_KB-1
+Added Pin To Net: NetName=+10V Pin=MT_KA-1
+Added Pin To Net: NetName=+10V Pin=MT_KB-1
+Change Net Name : Old Net Name=+10V New Net Name=+12V

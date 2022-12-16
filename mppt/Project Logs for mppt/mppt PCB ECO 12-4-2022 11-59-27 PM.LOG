@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=MT_VDDA_T Pin=MT_R_TH-2
+Removed Pin From Net: NetName=MT_TS_G Pin=MT_R_TI-1
+Removed Pin From Net: NetName=MT_VDDA_T Pin=MT_R_TI-2
+Removed Member From Class: ClassName=mppt Member=MT_R_TH
+Added Pin To Net: NetName=MT_TS_K Pin=MT_R_TK-1
+Added Pin To Net: NetName=MT_TS_K Pin=MT_RT_TK-2
+Added Net: Name=MT_TS_K
+Added Member To Class: ClassName=mppt Member=Component MT_R_TK 0402WGF1002TCE
+Added Member To Class: ClassName=mppt Member=Component MT_RT_TK NCP15XH103F03RC

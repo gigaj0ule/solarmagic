@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=MT_DC_IN Pin=MT_R_DC_IN-2
+Removed Member From Class: ClassName=mppt Member=MT_R_DC_IN

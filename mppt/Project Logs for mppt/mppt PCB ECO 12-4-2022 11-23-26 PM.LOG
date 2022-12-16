@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=CELL_12_FUSED Pin=TWLV_C_DE-1
+Removed Pin From Net: NetName=GND Pin=TWLV_C_DE-2
+Removed Member From Class: ClassName=mppt Member=TWLV_C_DE
+Added Member To Class: ClassName=mppt Member=Component TWLV_C_AH CL10A106MA8NRNC
+Added Member To Class: ClassName=mppt Member=Component TWLV_R_F 0402WGF0000TCE

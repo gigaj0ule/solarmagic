@@ -1,0 +1,20 @@
+Added Component: Designator=MT_Q_KA(TO-236AB)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C8545"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "WVDC"; Value = "60"; VariantName = "[No Variations]"
+Added Component: Designator=MT_Q_KB(TO-236AB)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C8545"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "WVDC"; Value = "60"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=MT_Q_KA-2
+Added Pin To Net: NetName=MT_KA Pin=MT_Q_KA-3
+Added Pin To Net: NetName=GND Pin=MT_Q_KB-2
+Added Pin To Net: NetName=MT_KB Pin=MT_Q_KB-3
+Added Pin To Net: NetName=MT_K_EN Pin=MT_Q_KB-1
+Added Net: Name=MT_K_EN
+Added Pin To Net: NetName=MT_K_POL Pin=MT_Q_KA-1
+Added Net: Name=MT_K_POL
+Added Member To Class: ClassName=mppt Member=Component MT_Q_KA 2N7002
+Added Member To Class: ClassName=mppt Member=Component MT_Q_KB 2N7002
