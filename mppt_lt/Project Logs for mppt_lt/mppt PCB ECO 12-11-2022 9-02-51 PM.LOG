@@ -1,9 +1,0 @@
-Removed Pin From Net: NetName=GND Pin=D_CLAMP_18-2
-Removed Pin From Net: NetName=D8 Pin=R160-1
-Removed Pin From Net: NetName=D10 Pin=R160-2
-Removed Member From Class: ClassName=mppt Member=D_CLAMP_15
-Removed Member From Class: ClassName=mppt Member=D_CLAMP_16
-Removed Member From Class: ClassName=mppt Member=D_CLAMP_17
-Removed Member From Class: ClassName=mppt Member=D_CLAMP_18
-Removed Member From Class: ClassName=mppt Member=R160
-Added Pin To Net: NetName=GND Pin=D_CLAMP_14-2

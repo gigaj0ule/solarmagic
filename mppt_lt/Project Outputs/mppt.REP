@@ -2,15 +2,17 @@
 FileName = mppt.GBR
 AutoAperture = True
 *************************************************************
-Generating : Bottom Overlay
-      File : mppt.GBO
+Generating : Bottom Paste
+      File : mppt.GBP
 
-    Adding Layer      : Bottom Overlay
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
 
 
 Used DCodes :
-    D10
-    D15
 *************************************************************
 
 *************************************************************
@@ -48,127 +50,15 @@ Used DCodes :
     D38
     D39
     D40
-    D43
-    D44
+    D41
+    D42
     D45
     D46
-    D88
-    D89
-    D90
-    D194
-    D195
-    D196
-    D197
-    D198
-    D199
-    D200
-    D201
-*************************************************************
-
-*************************************************************
-Generating : Bottom Solder
-      File : mppt.GBS
-
-    Adding Layer      : Bottom Solder
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D79
-    D80
-    D81
-    D82
-    D83
-    D84
-    D85
-    D86
-    D87
-*************************************************************
-
-*************************************************************
-Generating : Top Solder
-      File : mppt.GTS
-
-    Adding Layer      : Top Solder
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
     D47
     D48
-    D49
-    D50
-    D51
-    D52
-    D53
-    D54
-    D55
-    D56
-    D57
-    D58
-    D59
-    D60
-    D61
-    D62
-    D63
-    D64
-    D65
-    D66
-    D67
-    D68
-    D69
-    D70
-    D71
-    D72
-    D73
-    D74
-    D75
-    D76
-    D77
-    D78
-    D79
-    D80
-    D81
-    D82
-    D83
-    D84
-    D85
-    D86
-    D87
-*************************************************************
-
-*************************************************************
-Generating : Bottom Layer
-      File : mppt.GBL
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D10
     D92
     D93
     D94
-    D194
-    D195
-    D196
-    D197
-    D198
-    D199
-    D200
-    D201
-    D202
-    D203
-    D204
-    D205
     D206
     D207
     D208
@@ -177,41 +67,29 @@ Used DCodes :
     D211
     D212
     D213
-    D214
-    D215
-    D216
-    D217
-    D218
-    D219
-    D220
-    D221
-    D222
-    D223
-    D224
-    D225
-    D226
-    D227
-    D228
-    D229
-    D230
-    D231
-    D232
-    D233
-    D234
-    D235
-    D236
-    D237
-    D238
-    D239
-    D240
-    D241
-    D242
-    D243
-    D244
-    D245
-    D246
-    D247
-    D248
+*************************************************************
+
+*************************************************************
+Generating : M30 Board Outline
+      File : mppt.GM30
+
+    Adding Layer      : M30 Board Outline
+
+
+Used DCodes :
+    D263
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : mppt.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D10
+    D15
 *************************************************************
 
 *************************************************************
@@ -257,6 +135,85 @@ Used DCodes :
     D44
     D45
     D46
+    D47
+    D48
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : mppt.GPB
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D206
+    D207
+    D208
+    D209
+    D210
+    D211
+    D212
+    D213
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : mppt.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+    D62
+    D63
+    D64
+    D65
+    D66
+    D67
+    D68
+    D69
+    D70
+    D71
+    D72
+    D73
+    D74
+    D75
+    D76
+    D77
+    D78
+    D79
+    D80
+    D81
+    D82
+    D83
+    D84
+    D85
+    D86
+    D87
+    D88
+    D89
+    D90
+    D91
 *************************************************************
 
 *************************************************************
@@ -276,8 +233,8 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Bottom Pad Master
-      File : mppt.GPB
+Generating : Bottom Layer
+      File : mppt.GBL
 
     Adding Layer      : Bottom Layer
 
@@ -285,25 +242,89 @@ Generating : Bottom Pad Master
 
 
 Used DCodes :
-    D194
-    D195
-    D196
-    D197
-    D198
-    D199
-    D200
-    D201
+    D10
+    D95
+    D98
+    D206
+    D207
+    D208
+    D209
+    D210
+    D211
+    D212
+    D213
+    D214
+    D215
+    D216
+    D217
+    D218
+    D219
+    D220
+    D221
+    D222
+    D223
+    D224
+    D225
+    D226
+    D227
+    D228
+    D229
+    D230
+    D231
+    D232
+    D233
+    D234
+    D235
+    D236
+    D237
+    D238
+    D239
+    D240
+    D241
+    D242
+    D243
+    D244
+    D245
+    D246
+    D247
+    D248
+    D249
+    D250
+    D251
+    D252
+    D253
+    D254
+    D255
+    D256
+    D257
+    D258
+    D259
+    D260
+    D261
+    D262
 *************************************************************
 
 *************************************************************
-Generating : M30 Board Outline
-      File : mppt.GM30
+Generating : Bottom Solder
+      File : mppt.GBS
 
-    Adding Layer      : M30 Board Outline
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
 
 
 Used DCodes :
-    D249
+    D83
+    D84
+    D85
+    D86
+    D87
+    D88
+    D89
+    D90
+    D91
 *************************************************************
 
 *************************************************************
@@ -352,14 +373,12 @@ Used DCodes :
     D38
     D39
     D40
-    D43
-    D44
+    D41
+    D42
     D45
     D46
-    D88
-    D89
-    D90
-    D91
+    D47
+    D48
     D92
     D93
     D94
@@ -472,19 +491,17 @@ Used DCodes :
     D201
     D202
     D203
-*************************************************************
-
-*************************************************************
-Generating : Bottom Paste
-      File : mppt.GBP
-
-    Adding Layer      : Bottom Paste
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
+    D204
+    D205
+    D206
+    D207
+    D208
+    D209
+    D210
+    D211
+    D212
+    D213
+    D214
+    D215
 *************************************************************
 

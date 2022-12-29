@@ -1,9 +1,0 @@
-Removed Pin From Net: NetName=SOL_1A_F Pin=MT_F_A-1
-Removed Pin From Net: NetName=SOL_1A Pin=MT_F_A-2
-Removed Pin From Net: NetName=SOL_1A_F Pin=MT_F_B-1
-Removed Pin From Net: NetName=SOL_1A Pin=MT_F_B-2
-Removed Pin From Net: NetName=SOL_1A_F Pin=MT_F_C-1
-Removed Pin From Net: NetName=SOL_1A Pin=MT_F_C-2
-Removed Member From Class: ClassName=mppt Member=MT_F_A
-Removed Member From Class: ClassName=mppt Member=MT_F_B
-Removed Member From Class: ClassName=mppt Member=MT_F_C

@@ -1,8 +1,0 @@
-Added Pin To Net: NetName=MT_LED_B Pin=J1-9
-Added Pin To Net: NetName=MT_LED_A Pin=J1-11
-Added Pin To Net: NetName=MT_LED_D Pin=J2-9
-Added Pin To Net: NetName=MT_LED_C Pin=J2-11
-Added Pin To Net: NetName=MT_LED_B Pin=R_LED_A-2
-Added Pin To Net: NetName=MT_LED_A Pin=R_LED_B-2
-Added Pin To Net: NetName=MT_LED_C Pin=R_LED_C-2
-Added Pin To Net: NetName=MT_LED_D Pin=R_LED_D-2

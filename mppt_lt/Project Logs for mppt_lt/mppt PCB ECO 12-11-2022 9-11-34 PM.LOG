@@ -1,9 +1,0 @@
-Added Component: Designator=MT_R_TWELVE(R_0402)
-Add component. Clean all parameters for all variants
-Add component (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
-Add component (AddParameter): Name = "LCSC Part #"; Value = "C17168"; VariantName = "[No Variations]"
-Add component (AddParameter): Name = "Value"; Value = "0R"; VariantName = "[No Variations]"
-Added Pin To Net: NetName=+12V Pin=MT_R_TWELVE-2
-Added Pin To Net: NetName=+12V_IN Pin=MT_R_TWELVE-1
-Added Net: Name=+12V_IN
-Added Member To Class: ClassName=mppt Member=Component MT_R_TWELVE 0402WGF0000TCE
